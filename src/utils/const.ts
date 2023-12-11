@@ -44,8 +44,8 @@ const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
 
 // not support English for now
 const CHINESE_LOCATION_INFO_MESSAGE_FIRST =
-  '我去过了一些地方，希望随着时间推移，地图点亮的地方越来越多';
-const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '不要停下来，不要停下探索的脚步';
+  '我用运动探索过的地方，希望随着时间推移，地图点亮的地方越来越多';
+const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '人生是一块块拼图，不要停下探索的脚步';
 
 const INFO_MESSAGE = IS_CHINESE ? CHINESE_INFO_MESSAGE : ENGLISH_INFO_MESSAGE;
 const FULL_MARATHON_RUN_TITLE = IS_CHINESE ? '全程马拉松' : 'Full Marathon';
@@ -120,7 +120,7 @@ export const RUN_COLOR = yellow;
 export const RIDE_COLOR = green;
 export const VIRTUAL_RIDE_COLOR = veryPeri;
 export const HIKE_COLOR = pink;
-export const SWIM_COLOR = gold;
+export const SWIM_COLOR = blue;
 export const ROWING_COLOR = cyan;
 export const ROAD_TRIP_COLOR = purple;
 export const FLIGHT_COLOR = wpink;
@@ -128,4 +128,4 @@ export const PROVINCE_FILL_COLOR = '#47b8e0';
 export const COUNTRY_FILL_COLOR = wpink;
 export const KAYAKING_COLOR = red;
 export const SNOWBOARD_COLOR = wpink;
-export const TRAIL_RUN_COLOR = IKB;
+export const TRAIL_RUN_COLOR = gold;
