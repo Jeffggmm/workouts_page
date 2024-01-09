@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2023-06-30T23:00:08.000Z</time>
+  </metadata>
+  <trk>
+    <name>M068内蒙西乌旗草原王越野2023</name>
+    <desc>天苍苍野茫茫，我们都是草原王。6:59完赛西乌旗50km草原越野。这场比赛也是警察马拉松赛，第一次和这么多警察一起跑，一路上超越十几个警察，挺有成就感。一个当地特警和我说，你跑50啊我这22都快抗不住了。草原无云无风暴晒，我把头巾打湿蒙到脸上两三公里就干了，一路也流鼻血好几次，50km参赛者不多补给到位，志愿者服务完大都会说一句欢迎到锡盟来，欢迎到西乌旗来，倍感亲切！瞄了眼计时显示6:59，差几百米够50K，继续从终点溜达回酒店！</desc>
+    <type>running</type>
+    <trkseg/>
+  </trk>
+</gpx>

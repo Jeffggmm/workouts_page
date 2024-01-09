@@ -30,21 +30,6 @@
 "streak": 1
 },
 {
-"run_id": 1422963766000,
-"name": "\u660c\u5e73\u533a \u8dd1\u6b65",
-"distance": 4437.878166954993,
-"moving_time": "0:34:05",
-"type": "Run",
-"start_date": "2015-02-03 11:42:46",
-"start_date_local": "2015-02-03 19:42:46",
-"location_country": "\u5730\u94c1\u5929\u901a\u82d1\u5317\u7ad9, \u67a2\u7ebd\u4e1c\u4fa7\u8def, \u5929\u901a\u82d1\u5357\u8857\u9053, \u4e1c\u4e09\u65d7\u6751, \u660c\u5e73\u533a, \u5317\u4eac\u5e02, 102218, \u4e2d\u56fd",
-"summary_polyline": "utssFsxneUeTzDmHR{Hg@siAnEiAm@{BD?}DmBSCeDfAsSZqXtAe[g@sV^}Pc@tCXbCz@lBQdGs@RCb@HbDh@dB",
-"average_heartrate": null,
-"average_speed": 2.1701115730831257,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
 "run_id": 1423008248000,
 "name": "\u660c\u5e73\u533a \u8dd1\u6b65",
 "distance": 3776.9686670822257,
@@ -334,7 +319,7 @@
 "name": "\u5f20\u5bb6\u53e3\u5e02\u4e07\u9f99\u6ed1\u96ea\u573a\u8dd1\u6b65",
 "distance": 5842.93198312821,
 "moving_time": "1:17:05",
-"type": "Run",
+"type": "Trail Run",
 "start_date": "2015-03-23 23:23:19",
 "start_date_local": "2015-03-24 07:23:19",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -451,7 +436,7 @@
 },
 {
 "run_id": 1431733927000,
-"name": "\u5b89\u5fbd\u6b59\u53bf\u65b0\u5b89\u6c5f\u9a6c\u62c9\u677e\u534a\u7a0b",
+"name": "\u6b59\u53bf\u65b0\u5b89\u6c5f\u9a6c\u62c9\u677e\u534a\u7a0b",
 "distance": 21686.22148212487,
 "moving_time": "2:13:51",
 "type": "Run",
@@ -797,7 +782,7 @@
 {
 "run_id": 1443394966000,
 "name": "\u9a6c\u6765\u897f\u4e9aKota Kinabalu \u8dd1\u6b65",
-"distance": 4575.747613197302,
+"distance": 4577.921844784578,
 "moving_time": "0:27:14",
 "type": "Run",
 "start_date": "2015-09-27 23:02:46",
@@ -805,7 +790,7 @@
 "location_country": "Sabah Tourism Board, 51, Jalan Gaya, Kota Kinabalu, West Coast Division, Sabah, 88000, Malaysia, \u9a6c\u6765\u897f\u4e9a",
 "summary_polyline": "{`pc@goncUyE_BgJeGiBOoCeEqGcC_GcAyCoCiIkEcDqDoKuHeCaGSeDb@wDdDaElKazAlGxHjHzLxC|HDxC",
 "average_heartrate": null,
-"average_speed": 2.8003351365956557,
+"average_speed": 2.8016657556821163,
 "source": "Garmin Connect",
 "streak": 1
 },
@@ -916,7 +901,7 @@
 },
 {
 "run_id": 1452902509000,
-"name": "\u9ed1\u9f99\u6c5f\u4f0a\u6625\u51b0\u96ea\u8d8a\u91ce\u8dd1",
+"name": "2\u9ed1\u9f99\u6c5f1\u4f0a\u6625\u51b0\u96ea\u8d8a\u91ce\u8dd1",
 "distance": 12255.397198207536,
 "moving_time": "1:49:00",
 "type": "Trail Run",
@@ -979,7 +964,7 @@
 "name": "Park City \u4e0a\u5348\u6ed1\u96ea",
 "distance": 23927.104082131646,
 "moving_time": "1:56:19",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-04 17:03:24",
 "start_date_local": "2016-02-04 11:03:24",
 "location_country": "Saddleback Road, Summit County, Utah, United States, \u7f8e\u56fd",
@@ -994,7 +979,7 @@
 "name": "Park City \u4e0b\u5348\u6ed1\u96ea",
 "distance": 26842.927728091603,
 "moving_time": "2:24:25",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-04 20:26:44",
 "start_date_local": "2016-02-04 14:26:44",
 "location_country": "Park City Mountain Resort, Summit County, Utah, United States, \u7f8e\u56fd",
@@ -1009,7 +994,7 @@
 "name": "Park City \u4e0a\u5348\u6ed1\u96ea",
 "distance": 22775.319873965782,
 "moving_time": "2:17:17",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-05 16:36:05",
 "start_date_local": "2016-02-05 10:36:05",
 "location_country": "Lift Road, Summit County, Utah, 84098, United States",
@@ -1024,7 +1009,7 @@
 "name": "Park City \u4e0b\u5348\u6ed1\u96ea",
 "distance": 26659.262604807493,
 "moving_time": "2:48:47",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-05 19:58:14",
 "start_date_local": "2016-02-05 13:58:14",
 "location_country": "Silverlode Hi-Speed Six Pack, Meadow Road, Park City, Summit County, Utah, 84060, United States",
@@ -1039,7 +1024,7 @@
 "name": "Park City \u4e0a\u5348\u6ed1\u96ea",
 "distance": 18525.623839311727,
 "moving_time": "2:18:29",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-06 17:02:17",
 "start_date_local": "2016-02-06 11:02:17",
 "location_country": "Saddleback Road, Summit County, Utah, United States",
@@ -1050,26 +1035,11 @@
 "streak": 3
 },
 {
-"run_id": 1454793442000,
-"name": "Park City \u4e0b\u5348\u6ed1\u96ea",
-"distance": 17779.974417085497,
-"moving_time": "1:13:36",
-"type": "Snowboard",
-"start_date": "2016-02-06 21:17:22",
-"start_date_local": "2016-02-06 15:17:22",
-"location_country": "Summit County, Utah, United States",
-"summary_polyline": "_abwFzh}gTfGrWVxEYr@g@OaB}DgHsGmQsFyCWaJ\\gD~E{DZ}BnEmCkGsBcM}@gCuIoJeBcAsB{CePoD{AhAWpAoEcEyG^wS_OmJMyA~AsA~DwCp@wAGeC{B{B_@~j@|gCpBjBz@~BJnL`ApHrB`HgAMeCuB{FkCcFiGgDgCkI{RaTuYmC_@qDTkD{@iCwIeA_Bo@j@{Iw@qK|@hClJLxCgApTi@`BsAZkBmDuCeC^cD_BeEqNcLoJeV_BkGIkDr@`oChA|JoAr@eDJaFiB_AiCyCk@qAiDaBcA_@_Ai@qFqByHUuDZa@CiCcD{IwCcFScEXeCnKy_@hCwDjCyBjCaFdEyMxBuCjB_KAcLXyC~D_LzBiJp@yG[oG|E}Lb@eHfAgE",
-"average_heartrate": null,
-"average_speed": 4.026262322709578,
-"source": "Garmin Connect",
-"streak": 3
-},
-{
 "run_id": 1454864118000,
 "name": "Park City \u4e0a\u5348\u6ed1\u96ea",
 "distance": 27372.27272694084,
 "moving_time": "2:27:04",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-07 16:55:18",
 "start_date_local": "2016-02-07 10:55:18",
 "location_country": "Lift Road, Summit County, Utah, 84098, United States",
@@ -1084,7 +1054,7 @@
 "name": "Park City \u4e0b\u5348\u6ed1\u96ea",
 "distance": 23308.67126716425,
 "moving_time": "2:12:48",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-07 21:11:49",
 "start_date_local": "2016-02-07 15:11:49",
 "location_country": "Silverlode Hi-Speed Six Pack, Claim Jumper, Park City, Summit County, Utah, 84068, United States",
@@ -1099,7 +1069,7 @@
 "name": "Park City \u6ed1\u96ea",
 "distance": 55850.42658213996,
 "moving_time": "5:01:15",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-08 16:47:06",
 "start_date_local": "2016-02-08 10:47:06",
 "location_country": "Ninety Nine 90 Road, Summit County, Utah, United States",
@@ -1114,7 +1084,7 @@
 "name": "Park City \u6ed1\u96ea",
 "distance": 54494.779203319136,
 "moving_time": "4:40:16",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-09 16:48:41",
 "start_date_local": "2016-02-09 10:48:41",
 "location_country": "Canyons Downhill, Summit County, Utah, 84098, United States",
@@ -1144,7 +1114,7 @@
 "name": "\u4e07\u9f99\u6ed1\u96ea",
 "distance": 16790.996635179414,
 "moving_time": "1:12:49",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-16 06:22:53",
 "start_date_local": "2016-02-16 14:22:53",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -1174,7 +1144,7 @@
 "name": "\u4e07\u9f99\u6ed1\u96ea",
 "distance": 60374.83373572363,
 "moving_time": "4:17:42",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-17 01:56:57",
 "start_date_local": "2016-02-17 09:56:57",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -1189,7 +1159,7 @@
 "name": "\u4e07\u9f99\u6ed1\u96ea",
 "distance": 65634.5166579565,
 "moving_time": "4:41:42",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2016-02-18 00:48:02",
 "start_date_local": "2016-02-18 08:48:02",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -1201,7 +1171,7 @@
 },
 {
 "run_id": 1455832617000,
-"name": "\u6cb3\u5317\u5d07\u793c\u4e07\u9f99\u9ed1\u51b7\u51bb",
+"name": "3\u6cb3\u53172\u5d07\u793c\u4e07\u9f99\u9ed1\u51b7\u51bb",
 "distance": 10061.351301973846,
 "moving_time": "1:22:00",
 "type": "Run",
@@ -1321,7 +1291,7 @@
 },
 {
 "run_id": 1457769090000,
-"name": "\u6d59\u6c5f\u6c5f\u5c71\u5e02\u6cbf\u6c5f\u8dd1",
+"name": "\u6d59\u6c5f6\u6c5f\u5c71\u5e02\u6cbf\u6c5f\u8dd1",
 "distance": 10205.548616571628,
 "moving_time": "1:11:18",
 "type": "Run",
@@ -1366,7 +1336,7 @@
 },
 {
 "run_id": 1458082793000,
-"name": "\u6cb3\u5317\u79e6\u7687\u5c9b\u6728\u6808\u9053\u8dd1\u6b65",
+"name": "\u6cb3\u53175\u79e6\u7687\u5c9b\u6728\u6808\u9053\u8dd1\u6b65",
 "distance": 5384.863960072966,
 "moving_time": "0:44:44",
 "type": "Run",
@@ -1411,7 +1381,7 @@
 },
 {
 "run_id": 1459378126000,
-"name": "\u91cd\u5e86\u7167\u6bcd\u5c71\u8dd1\u6b65",
+"name": "4&3\u91cd\u5e86\u7167\u6bcd\u5c71\u8dd1\u6b65",
 "distance": 10528.082754968764,
 "moving_time": "1:22:03",
 "type": "Run",
@@ -1591,7 +1561,7 @@
 },
 {
 "run_id": 1462332804000,
-"name": "\u4e2d\u5173\u6751\u6b65\u884c",
+"name": "\u6b65\u884c",
 "distance": 2214.266673680227,
 "moving_time": "0:15:18",
 "type": "Hike",
@@ -3499,7 +3469,7 @@
 "name": "South Lake Tahoe Ski / Board",
 "distance": 17246.270762634842,
 "moving_time": "1:37:10",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2017-02-03 20:47:39",
 "start_date_local": "2017-02-03 13:47:39",
 "location_country": "Cold Creek Trail, El Dorado County, California, 96150, United States",
@@ -3514,7 +3484,7 @@
 "name": "South Lake Tahoe Ski / Board",
 "distance": 20520.00522447235,
 "moving_time": "3:38:02",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2017-02-04 18:45:04",
 "start_date_local": "2017-02-04 11:45:04",
 "location_country": "Keller Road, South Lake Tahoe, El Dorado County, California, 96156, United States",
@@ -3544,7 +3514,7 @@
 "name": "South Lake Tahoe Ski / Board",
 "distance": 7610.8094961073775,
 "moving_time": "1:45:11",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2017-02-06 19:02:37",
 "start_date_local": "2017-02-06 12:02:37",
 "location_country": "Cold Creek Trail, El Dorado County, California, 96150, United States",
@@ -3589,7 +3559,7 @@
 "name": "\u4e07\u9f99\u6ed1\u96ea",
 "distance": 35115.743592114806,
 "moving_time": "4:38:49",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2017-02-22 03:03:00",
 "start_date_local": "2017-02-22 11:03:00",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -3604,7 +3574,7 @@
 "name": "\u4e07\u9f99\u6ed1\u96ea",
 "distance": 24384.274610975623,
 "moving_time": "1:40:23",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2017-02-23 02:51:02",
 "start_date_local": "2017-02-23 10:51:02",
 "location_country": "\u4e07\u9f99\u6ed1\u96ea\u573a, \u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -3619,7 +3589,7 @@
 "name": "\u4e07\u9f99\u6ed1\u96ea\uff0c\u6454\u5230\u56fa\u5b9a\u5668\u65ad",
 "distance": 36462.071871707274,
 "moving_time": "2:51:01",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2017-02-24 00:54:40",
 "start_date_local": "2017-02-24 08:54:40",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -3855,21 +3825,6 @@
 "streak": 1
 },
 {
-"run_id": 1491205807000,
-"name": "RIC\u5546\u5b66\u9662\u6311\u6218\u8d5b\u8d64\u6c34\u6cb3\u76ae\u5212\u8247",
-"distance": 10325.853142195887,
-"moving_time": "1:50:45",
-"type": "Kayaking",
-"start_date": "2017-04-03 07:50:07",
-"start_date_local": "2017-04-03 15:50:07",
-"location_country": "S303, \u4e60\u6c34\u53bf, \u9075\u4e49\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd",
-"summary_polyline": "gmdkDmdefS_EhOk@|JdClO|@hN`AxEaBt\\^bSgDfF}FhDqEbAkLIi[qA{LyAoJ?sOfAwEdAgEBsGbCeNdB}BzBiMtHkAxAcDtGoJnKwClGgTr]oJrGyKfEcBHmHiBeDYwGFgEf@aK~E{Ch@kKa@wCx@mJZkAg@iDCmDkAgNkIwHoGwCuAmD}@_L]sI{A_Dh@iJ~GuG~JoCfBqGpBg@i@",
-"average_heartrate": 72.0,
-"average_speed": 1.5539282381032185,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
 "run_id": 1491263752000,
 "name": "RIC\u5546\u5b66\u9662\u6311\u6218\u8d5b\u571f\u57ce\u5b9a\u5411",
 "distance": 6170.133920108579,
@@ -3911,21 +3866,6 @@
 "summary_polyline": "mlxlDek{dScA|QtEt@]GMl@BkC~@uD[{@ZQc@R~@fAOj@\\j@e@|AL|Aw@Gf@B`@s@Oh@QUf@s@F|@m@tMq@fCw@lN}AdFiAjH@vBkBrMMzE{BnFFzAy@vDUlHs@bDoDhGc@rEcB`HyC|AcItIaTxOcTrLkHdGyJ|FcKnNsBpKRvRhFzW|H`UbDfEFbCx@lBnCnDx@xCjBzCjAv@ZfBtAbArBhHxAhChAlF",
 "average_heartrate": 110.0,
 "average_speed": 1.7045947870567566,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
-"run_id": 1491282979000,
-"name": "RIC\u5546\u5b66\u9662\u6311\u6218\u8d5b\u8d64\u6c34\u6cb3\u76ae\u5212\u8247",
-"distance": 11286.437042891705,
-"moving_time": "1:51:38",
-"type": "Kayaking",
-"start_date": "2017-04-04 05:16:19",
-"start_date_local": "2017-04-04 13:16:19",
-"location_country": "\u8d64\u6c34\u5e02, \u9075\u4e49\u5e02, \u8d35\u5dde\u7701, 558000, \u4e2d\u56fd",
-"summary_polyline": "}qzlDoyodS|A~IeAzKqBnGeJpIe[jOeUlFaIdDeNpBkRpFyQhMoEtEyBvEuCnCgH~D{IbIeXbS_GjGaGbC{EbFeDjBmDdDqB~DsApAs@dDGnBd@vDGtHkAvQkApDqK|L{@v@yErAeBtAeCjE{AfHoJlNkB|DTtSbCfElIzEbGhBbBFhHrC|U|DbKdE|IxH`C|HZdE]bJoA|JiAbC_EbHqD~AsF_@aXeG{AqAyJmBH{@iDe@",
-"average_heartrate": 131.0,
-"average_speed": 1.6850458409811444,
 "source": "Garmin Connect",
 "streak": 2
 },
@@ -4651,7 +4591,7 @@
 },
 {
 "run_id": 1501624788000,
-"name": "M013\u9752\u6d77\u963f\u5c3c\u739b\u537f2017",
+"name": "M013\u9752\u6d77\u963f\u5c3c\u739b\u537f\u8d8a\u91ce\u8d5b2017",
 "distance": 52835.16635747474,
 "moving_time": "10:44:00",
 "type": "Trail Run",
@@ -4663,6 +4603,66 @@
 "average_speed": 1.3673697297483112,
 "source": "Garmin Connect",
 "streak": 5
+},
+{
+"run_id": 1501720494000,
+"name": "\u5f92\u6b65\u9752\u6d77\u6e56\u7b2c\u4e00\u5929",
+"distance": 28128.019669493646,
+"moving_time": "6:45:46",
+"type": "Hike",
+"start_date": "2017-08-03 00:34:54",
+"start_date_local": "2017-08-03 08:34:54",
+"location_country": "G315, \u521a\u5bdf\u53bf \u0f62\u0f90\u0f44\u0f0b\u0f5a\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u5317\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f58\u0f5a\u0f7c\u0f0b\u0f56\u0f61\u0fa3\u0f44\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u9752\u6d77\u7701, \u4e2d\u56fd",
+"summary_polyline": "{kdbF{hgdRiCgDN}@fRmZvEgD~LwAzcAoG~QyCvNeGfpAsn@nNmJhF_Hpy@}yAnSsh@dN}_@v_@cbAtRa`@vByDtBsB`m@wY~G}Bb@s@z@Gb@o@fWiMnV}Kr~Aov@dD_A`@o@xn@sZzzGqkD|u@_GlNlAbb@cLv[l@`SqG|CnDzHrXBx@i@nA~Gjv@jA~KzAxCzAgExIyD|F{HzEaCvFsGtQuGlHoIxGwDxCiDvBQtByGtAgBlUiKh@{AEs@oEcFsEmKqDqMu@iAiBeO",
+"average_heartrate": null,
+"average_speed": 1.1553446015564628,
+"source": "Garmin Connect",
+"streak": 6
+},
+{
+"run_id": 1501807508000,
+"name": "\u5f92\u6b65\u9752\u6d77\u6e56\u7b2c\u4e8c\u5929",
+"distance": 31521.13954516467,
+"moving_time": "7:03:38",
+"type": "Hike",
+"start_date": "2017-08-04 00:45:08",
+"start_date_local": "2017-08-04 08:45:08",
+"location_country": "\u6d77\u664f\u53bf \u0f67\u0f60\u0f7a\u0f0b\u0f61\u0f53\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u5317\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f58\u0f5a\u0f7c\u0f0b\u0f56\u0f61\u0fa3\u0f44\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u9752\u6d77\u7701, \u4e2d\u56fd",
+"summary_polyline": "gs~`Fob`eRNlAAyAdB}@|~Bcf@hwAmg@pI_G~OyRlBuDba@{}AbA{EKm@p@[dK_`@vxAiu@l]qSnMsFh|@_hAtYm_@nfAstAhXs\\h_AolAzHgJhAEI~@h@eExrBkiCd]_r@jb@gy@fWgh@|BmCPyAhW}g@x`@gv@jLeKpd@}[hl@}i@tFyFvB}Glj@ul@jEsNjBgLxDeOnNy_@fEfDdG|B|WvI|iCp~@xBZCW",
+"average_heartrate": null,
+"average_speed": 1.2401109271053847,
+"source": "Garmin Connect",
+"streak": 7
+},
+{
+"run_id": 1501892735000,
+"name": "\u5f92\u6b65\u9752\u6d77\u6e56\u7b2c\u4e09\u5929",
+"distance": 29804.743683175144,
+"moving_time": "6:49:31",
+"type": "Hike",
+"start_date": "2017-08-05 00:25:35",
+"start_date_local": "2017-08-05 08:25:35",
+"location_country": "\u73af\u6e56\u4e1c\u8def, \u5171\u548c\u53bf \u0f42\u0f66\u0f7a\u0f62\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u664f\u53bf \u0f67\u0f60\u0f7a\u0f0b\u0f61\u0f53\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u5317\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f58\u0f5a\u0f7c\u0f0b\u0f56\u0f61\u0fa3\u0f44\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u9752\u6d77\u7701, \u4e2d\u56fd",
+"summary_polyline": "e_u_Fc`efRq@`@vDbBxrFxmBzDx@t_Az\\d@n@ZQ`LzDvBb@tASr@f@`Wb@~JU|Fn@tI@fGmBff@wk@jMwKfZeTnEg@hMx@tAe@DwABjA^JjoCy{@d|Acg@l}@mOxhCw`@|`@mHjN_BbcA{CREe@[HWdAWhLDpP_Cv_@aCnF|A`JtJdEvGfL~MlEdHtB~AxhBz{Bhc@th@bWt[tJjLx_BfqB|DvCtNrFT~Au@rEJh@",
+"average_heartrate": null,
+"average_speed": 1.2130049116102375,
+"source": "Garmin Connect",
+"streak": 8
+},
+{
+"run_id": 1501980839000,
+"name": "\u5f92\u6b65\u9752\u6d77\u6e56\u7b2c\u56db\u5929",
+"distance": 26753.27063459619,
+"moving_time": "6:20:14",
+"type": "Hike",
+"start_date": "2017-08-06 00:53:59",
+"start_date_local": "2017-08-06 08:53:59",
+"location_country": "\u73af\u6e56\u4e1c\u8def, \u5171\u548c\u53bf \u0f42\u0f66\u0f7a\u0f62\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u5357\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f58\u0f5a\u0f7c\u0f0b\u0f63\u0fb7\u0f7c\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u9752\u6d77\u7701, \u4e2d\u56fd",
+"summary_polyline": "u|f~Eya|eRb@J|@uApBq@`NhEvF|C~TpTb`Axq@lw@xn@n]he@dC|Bf@LZ_@Fz@nEfB`XrELUxGx@fKvCnm@fKhDtAt@jC_WlcAuAdKuOjaBmD~f@eFvf@WJHxAiUhcCeS~aCg_@rbEqsDdwRO_@",
+"average_heartrate": null,
+"average_speed": 1.1726690030067586,
+"source": "Garmin Connect",
+"streak": 9
 },
 {
 "run_id": 1502884571000,
@@ -5520,6 +5520,21 @@
 "streak": 1
 },
 {
+"run_id": 1514091821000,
+"name": "\u6fb3\u9580 \u5f92\u6b65",
+"distance": 3340.15894282326,
+"moving_time": "0:57:16",
+"type": "Hike",
+"start_date": "2017-12-24 05:03:41",
+"start_date_local": "2017-12-24 13:03:41",
+"location_country": "\u6fb3\u9580\u5ee3\u5834 The Macau Square, 2-16A, \u7f85\u4fdd\u535a\u58eb\u8857 Rua do Dr. Pedro Jose Lobo, \u5357\u7063 Praia Grande, \u5927\u5802\u5340 S\u00e9, \u6fb3\u9580 Macau, 519020, \u4e2d\u56fd",
+"summary_polyline": "mgmfCm~~sTBjBnDvCpAfCfG`DyB}@c@p@FjAlDnAWhClC^dCrFBvBxBd@JkDKpDyBw@?kBa@eAeCp@m@k@cCXzA|BdBVk@{@uANc@s@eAYDmAw@a@VDQL_AGHeASD}A}CfAGVd@e@PUSJRi@[QoBaARmAaAy@kBqAu@[Bs@~BsByDwBEUwDoAh@b@z@]uC_EXFjA^OnAtBKb@^DTe@iAxB{DpB",
+"average_heartrate": null,
+"average_speed": 0.9721067936039756,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
 "run_id": 1514686554000,
 "name": "\u6d59\u6c5f\u6c5f\u5c71\u6cbf\u6c5f\u8dd1",
 "distance": 11020.390102113155,
@@ -5839,7 +5854,7 @@
 "name": "\u6cb3\u5317\u4e07\u9f99\u6ed1\u96ea",
 "distance": 54056.51875883226,
 "moving_time": "4:07:47",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2018-02-27 02:42:55",
 "start_date_local": "2018-02-27 10:42:55",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -5854,7 +5869,7 @@
 "name": "\u6cb3\u5317\u4e07\u9f99\u6ed1\u96ea",
 "distance": 21816.73009705134,
 "moving_time": "1:45:27",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2018-02-28 00:56:16",
 "start_date_local": "2018-02-28 08:56:16",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -5869,7 +5884,7 @@
 "name": "\u6cb3\u5317\u5d07\u793c\u4e07\u9f99\u6ed1\u96ea",
 "distance": 28687.66662208337,
 "moving_time": "2:32:26",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2018-03-01 01:00:50",
 "start_date_local": "2018-03-01 09:00:50",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -6120,21 +6135,6 @@
 "streak": 1
 },
 {
-"run_id": 1523001704000,
-"name": "\u8d64\u6c34\u6311\u6218\u8d5b\u76ae\u5212\u8247",
-"distance": 10178.992702402384,
-"moving_time": "1:18:38",
-"type": "Kayaking",
-"start_date": "2018-04-06 08:01:44",
-"start_date_local": "2018-04-06 16:01:44",
-"location_country": "S303, \u4e60\u6c34\u53bf, \u9075\u4e49\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd",
-"summary_polyline": "kodkDy~dfScCrGY|ENtHdD~VZtHFrHaA|UVtO_@ZZM?bBmBjDaFnDmG~@mFk@yE\\_IEwQu@_Ey@uODcGv@_ECqPpAkRdF_SrK_MdQkB`BwOpVcErJ{ErFoGjEmHfCkF~CqBGcGsBmJ[aI`AqNjFmJm@uGv@yGQeFw@_DsB{NuFwHeF{FqBuDm@cGI}K}AwAPaK|GiJrLsH~C",
-"average_heartrate": null,
-"average_speed": 2.1574804371348844,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
 "run_id": 1523059102000,
 "name": "\u8d64\u6c34\u6cb3\u6311\u6218\u8d5b\u8dd1\u6b65",
 "distance": 6109.051389058879,
@@ -6150,21 +6150,6 @@
 "streak": 2
 },
 {
-"run_id": 1523062273000,
-"name": "\u8d64\u6c34\u6cb3\u6311\u6218\u8d5b\u9a91\u8f66",
-"distance": 38973.44179641866,
-"moving_time": "2:02:08",
-"type": "Ride",
-"start_date": "2018-04-07 00:51:13",
-"start_date_local": "2018-04-07 08:51:13",
-"location_country": "G546, \u4e60\u6c34\u53bf, \u9075\u4e49\u5e02, \u8d35\u5dde\u7701, 558000, \u4e2d\u56fd",
-"summary_polyline": "eiwkDwdweSmCbCgKnDuDtEgBXkAqAg@?u@bD{FViBr@}@b@cClDuKxB_PfF{Da@cDZeH[iKR}@QsBgB_Mn@cRwAuF@}C[}CiBiNRqBsAiAViFqAoIr@{Py@cJdBkF]_FJg@|@kB`AgBOwDbAe@WFcAYm@yCb@sBxHuAhAqItDeD`DwMhIeEpDeI`CwBtAiBnC}JdE_MfMuAzDyFnIaCjOgDvJExBcBpBsBtHaDpR{AzBwBnGkBjCiAjDmAl@cEdLyC|EsEpCsEXuEWcE_CsEkAwKm@cMqBaXWaHy@eFdByMbAyBj@iFc@uXjAoKzBwN`A}K_@mJ}EkDqHsBuH_AaIlAgl@KiWyCcI_CwNgAgDuEsJcE{DqMsE}HKiLj@mD|BwMrFcCvD_PfMoJlD_Z~EuEAyIaA}E_AoPsIiFoIgH}GwMcV}BaH}IuPeHkIeWsOuQmFm[wBeJfCaIa@cPvAqFvAiKjF}M~LeG~L{HlScCxLsDhHsGxZ{CfHeFfQuCdFqC|DuCxB_D`@yEKu@^}PzYoEhJuAxAqNhHaMdNeE~GgLhX_JfZ[rC_H~Xb@bOShE|C|Yj@vWbGhJrM~B~c@~Z|GzGtDrHdH|H~HnMhHrRrF|JfGjQNzCu@dGaDjLqFrIcNxIqFjGcHvMaC~Ge@`ER`JlFff@NzZ_BzNOhVxB`JlA~JlP`k@`Kve@xF|S|A~KHdD",
-"average_heartrate": 115.0,
-"average_speed": 5.31842819274272,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
 "run_id": 1523071998000,
 "name": "\u8d64\u6c34\u6cb3\u6311\u6218\u8d5b\u8dd1\u6b65",
 "distance": 7584.941940917617,
@@ -6176,21 +6161,6 @@
 "summary_polyline": "}jxlDma|dSZ_@|EHo@rFp@tDWn@fAxAmAlCXg@Xz@TEs@VoA|DT`@k@x@`@nDg@zBNt@TeALt@c@xJgA~Fw@pNkB|Fu@bKk@hA[tGm@bCFfCgCrG@pCw@dDChEq@vDmEpIqBvLm@dAmAb@_F~EqDxEmJ`GsHlGwRvJkJ`IyKlHiH`JcCjLPtTvFxWtDzHf@rCpBbFtCpEf@vD~D`G`@xBrDbF|D`KjBxCbAhG",
 "average_heartrate": 115.0,
 "average_speed": 1.7792498102082142,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
-"run_id": 1523077186000,
-"name": "\u8d64\u6c34\u6cb3\u6311\u6218\u8d5b\u76ae\u5212\u8247",
-"distance": 11110.290650276309,
-"moving_time": "1:33:29",
-"type": "Kayaking",
-"start_date": "2018-04-07 04:59:46",
-"start_date_local": "2018-04-07 12:59:46",
-"location_country": "\u7eb3\u6eaa\uff0d\u4e60\u6c34, \u8d64\u6c34\u5e02, \u9075\u4e49\u5e02, \u8d35\u5dde\u7701, 558000, \u4e2d\u56fd",
-"summary_polyline": "}pzlD_vodSn@lIeBvLqEpHkHpGcI`EqLrDag@rN_SdEiM~FaKpGkKbLqa@r[mEnE_CtAqCpDaCrAuLvKiJzFuExEm@vAEpBcB|DIvFZ`D{@dTmCvD_BdG{HhGiJtFsChHi@vC_HnJwAfKH`FrAhM|AtDrD|CnAn@zKvAtC`BzWlE~JpE|CxCbElHvAjKgArSqBrFcBfCwB|BsC`AoL_Bs[yHqByAH_AqEa@",
-"average_heartrate": 101.0,
-"average_speed": 1.980797049434179,
 "source": "Garmin Connect",
 "streak": 2
 },
@@ -6424,7 +6394,7 @@
 "name": "\u9752\u6d77\u5c97\u4ec0\u5361\u4e03\u5f69\u7011\u5230\u5927\u672c\u8425",
 "distance": 3527.5566082696696,
 "moving_time": "1:19:39",
-"type": "Hike",
+"type": "Trail Run",
 "start_date": "2018-05-13 02:50:13",
 "start_date_local": "2018-05-13 10:50:13",
 "location_country": "\u95e8\u6e90\u56de\u65cf\u81ea\u6cbb\u53bf \u0f58\u0f7c\u0f44\u0f0b\u0f61\u0f7c\u0f53\u0f0b\u0f67\u0f74\u0f60\u0f7a\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u5317\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f58\u0f5a\u0f7c\u0f0b\u0f56\u0f61\u0fa3\u0f44\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u9752\u6d77\u7701, \u4e2d\u56fd",
@@ -6439,7 +6409,7 @@
 "name": "\u9752\u6d77\u5c97\u4ec0\u5361\u5927\u672c\u8425\u5f80\u8fd4\u96ea\u7ebf",
 "distance": 2461.434195418117,
 "moving_time": "1:04:07",
-"type": "Hike",
+"type": "Trail Run",
 "start_date": "2018-05-13 23:39:12",
 "start_date_local": "2018-05-14 07:39:12",
 "location_country": "\u95e8\u6e90\u56de\u65cf\u81ea\u6cbb\u53bf \u0f58\u0f7c\u0f44\u0f0b\u0f61\u0f7c\u0f53\u0f0b\u0f67\u0f74\u0f60\u0f7a\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u5317\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f58\u0f5a\u0f7c\u0f0b\u0f56\u0f61\u0fa3\u0f44\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u9752\u6d77\u7701, \u4e2d\u56fd",
@@ -6454,7 +6424,7 @@
 "name": "\u9752\u6d77\u5c97\u4ec0\u5361\u5927\u672c\u8425\u5f80\u8fd4\u96ea\u7ebf",
 "distance": 3842.5566344445624,
 "moving_time": "1:48:12",
-"type": "Hike",
+"type": "Trail Run",
 "start_date": "2018-05-15 00:01:48",
 "start_date_local": "2018-05-15 08:01:48",
 "location_country": "\u95e8\u6e90\u56de\u65cf\u81ea\u6cbb\u53bf \u0f58\u0f7c\u0f44\u0f0b\u0f61\u0f7c\u0f53\u0f0b\u0f67\u0f74\u0f60\u0f7a\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u5317\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f58\u0f5a\u0f7c\u0f0b\u0f56\u0f61\u0fa3\u0f44\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u9752\u6d77\u7701, \u4e2d\u56fd",
@@ -6469,7 +6439,7 @@
 "name": "\u9752\u6d77\u5c97\u4ec0\u5361\u5927\u672c\u8425\u5230\u4e03\u5f69\u7011",
 "distance": 3550.2367258323015,
 "moving_time": "0:53:23",
-"type": "Hike",
+"type": "Trail Run",
 "start_date": "2018-05-15 04:23:17",
 "start_date_local": "2018-05-15 12:23:17",
 "location_country": "\u95e8\u6e90\u56de\u65cf\u81ea\u6cbb\u53bf \u0f58\u0f7c\u0f44\u0f0b\u0f61\u0f7c\u0f53\u0f0b\u0f67\u0f74\u0f60\u0f7a\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u5317\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f58\u0f5a\u0f7c\u0f0b\u0f56\u0f61\u0fa3\u0f44\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u9752\u6d77\u7701, \u4e2d\u56fd",
@@ -6844,7 +6814,7 @@
 "name": "\u5185\u8499\u53e4\u970d\u6797\u90ed\u52d2\u89c2\u97f3\u5c71\u8349\u539f\u8dd1",
 "distance": 5773.589164491049,
 "moving_time": "1:03:55",
-"type": "Run",
+"type": "Trail Run",
 "start_date": "2018-07-14 11:19:48",
 "start_date_local": "2018-07-14 19:19:48",
 "location_country": "\u8fbe\u6765\u80e1\u7855\u82cf\u6728, \u970d\u6797\u90ed\u52d2\u5e02 \u182c\u1823\u1823\u182f\u1822\u1828 \u182d\u1823\u1823\u182f \u182c\u1823\u1832\u1820, \u901a\u8fbd\u5e02 \u1832\u1826\u1829\u182f\u1822\u1836\u1823\u1824 \u182c\u1823\u1832\u1820, \u5185\u8499\u53e4\u81ea\u6cbb\u533a \u1826\u182a\u1826\u1837 \u182e\u1823\u1829\u182d\u1824\u182f \u1824\u1828 \u1825\u182a\u1821\u1837\u1832\u1821\u182d\u1821\u1828 \u1835\u1820\u1830\u1820\u182c\u1823 \u1823\u1837\u1823\u1828, \u4e2d\u56fd",
@@ -6990,21 +6960,6 @@
 "streak": 1
 },
 {
-"run_id": 1533373641000,
-"name": "\u6000\u6765\u53bf\u541b\u60a6\u6e29\u6cc9\u9152\u5e97\u966a\u82d7\u54e5\u73a9\u6c34",
-"distance": 433.74188154105394,
-"moving_time": "0:12:36",
-"type": "Swim",
-"start_date": "2018-08-04 09:07:21",
-"start_date_local": "2018-08-04 17:07:21",
-"location_country": "\u6c99\u57ce\u5ba2\u8fd0\u7ad9, S241, \u6000\u6765\u53bf, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, \u4e2d\u56fd",
-"summary_polyline": "gsuuF}z_`UW?Am@}Ce@~CHlAnDy@}Bu@a@vA|B",
-"average_heartrate": null,
-"average_speed": 0.5737326475410767,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
 "run_id": 1533424771000,
 "name": "\u6cb3\u5317\u6000\u6765\u5e9c\u524d\u897f\u8857\u6668\u8dd1",
 "distance": 5068.286407119167,
@@ -7017,7 +6972,7 @@
 "average_heartrate": null,
 "average_speed": 2.34534308520091,
 "source": "Garmin Connect",
-"streak": 3
+"streak": 1
 },
 {
 "run_id": 1533556869000,
@@ -7032,7 +6987,7 @@
 "average_heartrate": null,
 "average_speed": 2.4110916385552383,
 "source": "Garmin Connect",
-"streak": 4
+"streak": 2
 },
 {
 "run_id": 1533652644000,
@@ -7047,7 +7002,7 @@
 "average_heartrate": null,
 "average_speed": 2.2049489171730343,
 "source": "Garmin Connect",
-"streak": 5
+"streak": 3
 },
 {
 "run_id": 1533857429000,
@@ -7515,21 +7470,6 @@
 "streak": 1
 },
 {
-"run_id": 1538695345000,
-"name": "\u897f\u85cf\u6d1b\u5806\u5cf0\u767b\u9876",
-"distance": 2075.728563499832,
-"moving_time": "1:20:07",
-"type": "Hike",
-"start_date": "2018-10-04 23:22:25",
-"start_date_local": "2018-10-05 07:22:25",
-"location_country": "\u683c\u8fbe\u4e61, \u5f53\u96c4\u53bf \u0f60\u0f51\u0f58\u0f0b\u0f42\u0f5e\u0f74\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f0d, \u62c9\u8428\u5e02 \u0f63\u0fb7\u0f0b\u0f66\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d, \u897f\u85cf\u81ea\u6cbb\u533a \u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f63\u0f97\u0f7c\u0f44\u0f66\u0f0d, \u4e2d\u56fd",
-"summary_polyline": "ojhuD{gpePlEnDGRHYAv@j@RvC~EtBlFtCxEdKzLvMsAqAXlBU~@PiBBb@QSE[VjDLBiCn@c@f@eFg@dFe@VEtCeDS_Mv@gMoO}KqS{DiDkAA?i@R\\",
-"average_heartrate": 95.0,
-"average_speed": 0.43181372238398835,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
 "run_id": 1538784256000,
 "name": "\u897f\u85cf\u62c9\u8428\u62c9\u9c81\u6e7f\u5730",
 "distance": 7395.303531172209,
@@ -7542,7 +7482,7 @@
 "average_heartrate": 151.0,
 "average_speed": 1.935943332767594,
 "source": "Garmin Connect",
-"streak": 3
+"streak": 1
 },
 {
 "run_id": 1539247937000,
@@ -7894,7 +7834,7 @@
 "name": "\u9ed1\u9f99\u6c5f\u4e94\u5927\u8fde\u6c60\u51b0\u4e0a\u8d70",
 "distance": 22776.4197130784,
 "moving_time": "3:54:38",
-"type": "Hike",
+"type": "Trail Run",
 "start_date": "2018-12-22 01:04:25",
 "start_date_local": "2018-12-22 09:04:25",
 "location_country": "\u683c\u7403\u5c71\u519c\u573a, \u4e94\u5927\u8fde\u6c60\u5e02, \u9ed1\u6cb3\u5e02, \u9ed1\u9f99\u6c5f\u7701, 164300, \u4e2d\u56fd",
@@ -7995,21 +7935,6 @@
 "streak": 2
 },
 {
-"run_id": 1547265755000,
-"name": "Kota Belud \u6d77\u57df\u6d6e\u6f5c",
-"distance": 0.0,
-"moving_time": "0:00:00",
-"type": "Swim",
-"start_date": "2019-01-12 04:02:35",
-"start_date_local": "2019-01-12 12:02:35",
-"location_country": "Sabah, Malaysia",
-"summary_polyline": "uw|g@_o}dU?v@d@s@USsh@i_CBa@[x@E]",
-"average_heartrate": null,
-"average_speed": 0.0,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
 "run_id": 1547333659000,
 "name": "\u9a6c\u6765\u897f\u4e9aKota Kinabalu \u6d77\u8fb9\u6668\u8dd1\u4e0d\u52a8",
 "distance": 7990.967382407056,
@@ -8022,7 +7947,7 @@
 "average_heartrate": null,
 "average_speed": 1.7247933050738304,
 "source": "Garmin Connect",
-"streak": 2
+"streak": 1
 },
 {
 "run_id": 1547372522000,
@@ -8037,22 +7962,7 @@
 "average_heartrate": 102.0,
 "average_speed": 1.9927541903673989,
 "source": "Garmin Connect",
-"streak": 2
-},
-{
-"run_id": 1547447547000,
-"name": "Kota Kinabalu \u516c\u5f00\u6c34\u57df\u6e38\u6cf3",
-"distance": 35.33288792448188,
-"moving_time": "0:01:19",
-"type": "Swim",
-"start_date": "2019-01-14 06:32:27",
-"start_date_local": "2019-01-14 14:32:27",
-"location_country": "Nexus Resort & Spa Karambunai, Lorong D' Sri Gayang 11, Tuaran, West Coast Division, Sabah, 88846, Malaysia",
-"summary_polyline": "ehid@mftcUy@_DP}@y@sA",
-"average_heartrate": null,
-"average_speed": 0.4472517458795175,
-"source": "Garmin Connect",
-"streak": 3
+"streak": 1
 },
 {
 "run_id": 1547469679000,
@@ -8067,7 +7977,7 @@
 "average_heartrate": null,
 "average_speed": 1.690080902717405,
 "source": "Garmin Connect",
-"streak": 3
+"streak": 2
 },
 {
 "run_id": 1547508602000,
@@ -8082,7 +7992,7 @@
 "average_heartrate": null,
 "average_speed": 2.6209060957775416,
 "source": "Garmin Connect",
-"streak": 4
+"streak": 3
 },
 {
 "run_id": 1548216311000,
@@ -8119,7 +8029,7 @@
 "name": "\u5317\u4eac\u5357\u5c71\u6ed1\u96ea",
 "distance": 2338.4881369808863,
 "moving_time": "0:37:11",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2019-01-27 03:34:39",
 "start_date_local": "2019-01-27 11:34:39",
 "location_country": "\u5723\u6c34\u5934\u6751, \u5bc6\u4e91\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -8359,7 +8269,7 @@
 "name": "\u5409\u6797\u677e\u82b1\u6e56\u672c\u96ea\u5b63\u5f00\u677f",
 "distance": 16047.425097350024,
 "moving_time": "1:04:58",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2019-02-19 03:32:56",
 "start_date_local": "2019-02-19 11:32:56",
 "location_country": "F\u7d22\u4e0a\u7ad9, \u677e\u82b1\u4e1c\u8def, \u9752\u5c71\u5b50, \u5c0f\u767d\u5c71\u4e61, \u4e30\u6ee1\u533a, \u5409\u6797\u5e02, \u5409\u6797\u7701, \u4e2d\u56fd",
@@ -8374,7 +8284,7 @@
 "name": "\u5409\u6797\u677e\u82b1\u6e56\u6ed1\u96ea\u573a",
 "distance": 18066.480789921956,
 "moving_time": "1:23:39",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2019-02-19 06:47:59",
 "start_date_local": "2019-02-19 14:47:59",
 "location_country": "A\u7d22\u4e0a\u7ad9, \u677e\u82b1\u4e1c\u8def, \u9752\u5c71\u5b50, \u5c0f\u767d\u5c71\u4e61, \u4e30\u6ee1\u533a, \u5409\u6797\u5e02, \u5409\u6797\u7701, \u4e2d\u56fd",
@@ -8389,7 +8299,7 @@
 "name": "\u5409\u6797\u677e\u82b1\u6e56Ski / Board",
 "distance": 13030.419627214193,
 "moving_time": "0:59:26",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2019-02-20 01:42:31",
 "start_date_local": "2019-02-20 09:42:31",
 "location_country": "A\u7d22\u4e0a\u7ad9, \u677e\u82b1\u4e1c\u8def, \u9752\u5c71\u5b50, \u5c0f\u767d\u5c71\u4e61, \u4e30\u6ee1\u533a, \u5409\u6797\u5e02, \u5409\u6797\u7701, \u4e2d\u56fd",
@@ -8404,7 +8314,7 @@
 "name": "\u5409\u6797\u677e\u82b1\u6e56Ski / Board",
 "distance": 34068.265811740726,
 "moving_time": "2:28:50",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2019-02-20 05:26:41",
 "start_date_local": "2019-02-20 13:26:41",
 "location_country": "A\u7d22\u4e0a\u7ad9, \u677e\u82b1\u4e1c\u8def, \u9752\u5c71\u5b50, \u5c0f\u767d\u5c71\u4e61, \u4e30\u6ee1\u533a, \u5409\u6797\u5e02, \u5409\u6797\u7701, \u4e2d\u56fd",
@@ -8419,7 +8329,7 @@
 "name": "\u5409\u6797\u677e\u82b1\u6e56 Ski / Board",
 "distance": 18187.587764810352,
 "moving_time": "1:24:36",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2019-02-21 00:30:18",
 "start_date_local": "2019-02-21 08:30:18",
 "location_country": "\u9752\u5c71\u5b50, \u5c0f\u767d\u5c71\u4e61, \u4e30\u6ee1\u533a, \u5409\u6797\u5e02, \u5409\u6797\u7701, \u4e2d\u56fd",
@@ -8434,7 +8344,7 @@
 "name": "\u5409\u6797\u677e\u82b1\u6e56Ski / Board",
 "distance": 26156.741699476715,
 "moving_time": "1:59:38",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2019-02-21 03:49:06",
 "start_date_local": "2019-02-21 11:49:06",
 "location_country": "A\u7d22\u4e0a\u7ad9, \u677e\u82b1\u4e1c\u8def, \u9752\u5c71\u5b50, \u5c0f\u767d\u5c71\u4e61, \u4e30\u6ee1\u533a, \u5409\u6797\u5e02, \u5409\u6797\u7701, \u4e2d\u56fd",
@@ -8449,7 +8359,7 @@
 "name": "\u5409\u6797\u5e02\u677e\u82b1\u6e56 Ski / Board",
 "distance": 40126.76677449636,
 "moving_time": "3:21:34",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2019-02-22 00:25:14",
 "start_date_local": "2019-02-22 08:25:14",
 "location_country": "A\u7d22\u4e0a\u7ad9, \u677e\u82b1\u4e1c\u8def, \u9752\u5c71\u5b50, \u5c0f\u767d\u5c71\u4e61, \u4e30\u6ee1\u533a, \u5409\u6797\u5e02, \u5409\u6797\u7701, \u4e2d\u56fd",
@@ -8494,7 +8404,7 @@
 "name": "\u5f20\u5bb6\u53e3\u4e07\u9f99 Ski / Board",
 "distance": 34804.22009224096,
 "moving_time": "3:04:10",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2019-02-27 01:08:38",
 "start_date_local": "2019-02-27 09:08:38",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -8509,7 +8419,7 @@
 "name": "\u5f20\u5bb6\u53e3\u4e07\u9f99 Ski / Board",
 "distance": 35164.62289416778,
 "moving_time": "2:14:22",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2019-02-28 00:01:56",
 "start_date_local": "2019-02-28 08:01:56",
 "location_country": "\u4e07\u9f99\u8def\uff08098\u4e61\u9053\uff09, \u5d07\u793c\u533a, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, 076300, \u4e2d\u56fd",
@@ -8670,21 +8580,6 @@
 "streak": 2
 },
 {
-"run_id": 1552729670000,
-"name": "\u4ee5\u8272\u5217\u6b7b\u6d77\u6f02\u6d6e",
-"distance": 0.0,
-"moving_time": "0:00:00",
-"type": "Swim",
-"start_date": "2019-03-16 09:47:50",
-"start_date_local": "2019-03-16 12:47:50",
-"location_country": "Glamping -420, Dead Sea Road, Dead Sea Scrolls Regional Council, Area C, Judea and Samaria, Palestinian Territory, \u5df4\u52d2\u65af\u5766",
-"summary_polyline": "{rz`E}quwETu@aBFlAh@DZ}@Nz@QiCdG?z@LW",
-"average_heartrate": null,
-"average_speed": 0.0,
-"source": "Garmin Connect",
-"streak": 3
-},
-{
 "run_id": 1552795590000,
 "name": "\u4ee5\u8272\u5217\u7279\u62c9\u7ef4\u592b\u6d77\u8fb9\u6668\u8dd1",
 "distance": 15660.333543118395,
@@ -8697,7 +8592,7 @@
 "average_heartrate": null,
 "average_speed": 2.1552895049708773,
 "source": "Garmin Connect",
-"streak": 4
+"streak": 1
 },
 {
 "run_id": 1552882507000,
@@ -8712,7 +8607,7 @@
 "average_heartrate": null,
 "average_speed": 2.452825490871659,
 "source": "Garmin Connect",
-"streak": 5
+"streak": 2
 },
 {
 "run_id": 1552967924000,
@@ -8727,7 +8622,7 @@
 "average_heartrate": null,
 "average_speed": 2.6046858240260113,
 "source": "Garmin Connect",
-"streak": 6
+"streak": 3
 },
 {
 "run_id": 1553053849000,
@@ -8742,7 +8637,7 @@
 "average_heartrate": null,
 "average_speed": 2.497718901966674,
 "source": "Garmin Connect",
-"streak": 7
+"streak": 4
 },
 {
 "run_id": 1553141436000,
@@ -8757,7 +8652,7 @@
 "average_heartrate": null,
 "average_speed": 2.4114360809159945,
 "source": "Garmin Connect",
-"streak": 8
+"streak": 5
 },
 {
 "run_id": 1553227137000,
@@ -8772,7 +8667,7 @@
 "average_heartrate": null,
 "average_speed": 2.510112878760977,
 "source": "Garmin Connect",
-"streak": 9
+"streak": 6
 },
 {
 "run_id": 1553385993000,
@@ -8865,21 +8760,6 @@
 "streak": 2
 },
 {
-"run_id": 1554511335000,
-"name": "\u8d64\u6c34\u6cb3\u6311\u6218\u8d5b\u9a91\u8f66",
-"distance": 52128.40261749581,
-"moving_time": "3:12:12",
-"type": "Ride",
-"start_date": "2019-04-06 00:42:15",
-"start_date_local": "2019-04-06 08:42:15",
-"location_country": "G212, \u4ec1\u6000\u5e02, \u9075\u4e49\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd",
-"summary_polyline": "y_ciDseghSaC|@oBfB{GBiFa@{K}B}DDeB_AkDKmIdBwKtHuBhDaBbAyRzEqPEyDaA{CIiGmD{Ii@cCp@aF?cHr@iZ~HqBrC{DVeB|@_GlH[`Ep@lFS`CcCrDwAN}@rCkAx@kFk@kFzB}AjAkB|CqBfAwBdHaEdBuBxDXnDkAjBcCpKqDdGiB~@eC@_JmDyBiDgAeFkDcHgCqBwGLaGgAyOdFmKO}Dy@gC~AcDUkCfF}HvGcG^sIvFgHhJqAzDuFbEqApB}L~GkA|AkAxGc@tHgArA{@vD_CtFeCpAq@`C_B`A_Ho@cBdAgHiA}CbAgBfCcB_@eFb@qBTsCjAuOc@_OvAaM\\aJy@yA`@oBe@eBXcB{A_BdAw@y@eFL}Cg@}BeB{Fw@oJL}FcBaMIwFh@cVnHmM|AmIT_KiBcCkBeD[aQqLuCOeVuF{OJgOrAaQs@cGzBsB|BGxE{ArKxBnIlCpBjDr@bW\\rB|B_@|LRlK}CzGyDjDcBx@{E`@kK|CcLlBwMaBmEAqQfBaPh@cHe@eJaCkSjBsLnD{C\\aE`IaBfAiGkAmNO{TpLkHdCgAdBsBhHiC`EkIbE}AlDyTrKe@vCaBbCqAjEsK|M_CbHaDlDuFnC{AvBu@jCP~EuCjEwBhFAtUeErRuArJmE|GIv@sB`Cy@VqBtDuItFcE`FqAlFO|EA`If@nKoBxBuAhHkCvFeA~GYrG}AvCKvBsCxEoHrEsAlCoDBIl@yEvEkL`R{H|IgCn@aAhAkMpF}CS{Ah@sFxDeGpC}J`KqGbPAvAeJfN}B~AiC`@{B~AuBf@WWHTqEMcDb@yFnBsEnDaWjDuEvDqCx@{IhFcRl\\?dNw@bFDrDkCrEUbG}B~KuBbWu@bByFjGyFdCwCnDgD~AyItBgNhAsHfDoQvAoGa@{H{AsE^cCz@qArAs@`CiF|e@QrMc@|CRp@o@tF{@fF_C|CeR`Is@~AqEjCsFtA{A]aCf@uFBuJgAaFAcCr@sFfE_Ef@mKfEwFrD^vAXlHK|H{@jBf@|@hApO{BpHmBnCgB|EsAfGUdDl@hF?zD{JbNqD~@q@t@yJdTiBpJgHfLoN|NoCzAwB@eEfA}ChBv@bMs@pBKjD_BzBM|I{EdGsCnIqBt@mEPcEbG^hICzXq@rAwE~BkDdH_GlD{BjLqB`CMzCoDxHcCvJwC|COdJo@nCoCfEoCt@m@t@Ev@l@d@N`ABfR|AjFL~FoC|BsD@oCvE^nB|DtD|@tBaC`MoBnEcA`LiD`KwDbIw@rG@bE_@lAf@hBc@|RZ`Fc@d@",
-"average_heartrate": null,
-"average_speed": 4.5203262762309935,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
 "run_id": 1554523845000,
 "name": "\u8d64\u6c34\u6cb3\u6311\u6218\u8d5b\u8d8a\u91ce\u8dd1",
 "distance": 16137.45232270569,
@@ -8891,21 +8771,6 @@
 "summary_polyline": "if}jDovtfSk@~As@HdAc@~BBfApApCvG?dDhAxHOT@w@}@KaA}Aa@TIc@w@x@uArIRdAbAbAB|Bt@xBOhBL\\Ce@ZJg@CxB|@jA~Dw@nDoFpCSh@Pf@e@LSp@hA|ElAV@f@}AI}C{F{A{@k@VWq@gCeBq@BsAgAyAWeA_B_IjA{AHwAk@eBd@kG^{AWoAd@sKp@]rAr@hCu@nAb@bCz@`CrCdA}@P]nCRlAfB|B`A~EtDpEXhCfAzCKlAe@^_ElA|AzC`EjCiElDf@x@yFdJgFtAg@h@}BYeCr@WXWnEeBdB[xAi@CIr@gAPg@~@gC_@m@VlAvGJvBWp@lBlH]lGbAzAAt@kBlBeCAXMOf@Zz@e@d@cAm@iAT[g@oAOaBz@g@gAuBf@wBqGq@DgDsCa@?_@z@sBDeCfB_C_AkApEq@BLnCU|@eBf@aC?u@z@NzLs@tBm@F}@hAo@rGBi@kAF[[u@VObAm@AgBaAg@dAiBh@cAtAsAhEgB^QbD{@{BYLPnCgAxAD`@vBpCt@FDlA|BlCh@Jf@pAq@zBn@fEm@fCkAtAaCZCx@|C`Bt@pC}@jDP`AlFnCE`DxBlDYpAq@Qu@j@_BQaAmBiBSl@[iAS[kAH\\}@dB`@Vx@Sa@jA_Aq@[b@c@UV@L`AvBF`AbDy@vEhCtDEbBzAlA{@jBrBzBiBJA^xBLZb@VQnFdD`@`D_IdAiBlC}A\\Y`A_BzAeDdAYbA_Dd@wBdA_Ak@_DOAn@c@PP`Ec@Px@zAm@rB|AjFxDiA~BxAUBVp@G_@xCcABpAwAfAoFjAcD[{@PMnAx@b@Od@}EjCkClEcBROvB{@pAY`CcDnFyAtEyE|DcCr@s@STUPh@rBq@qBv@_@Y",
 "average_heartrate": null,
 "average_speed": 1.008149704673311,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
-"run_id": 1554542329000,
-"name": "\u8d35\u5dde\u8d64\u6c34\u6cb3\u76ae\u5212\u8247",
-"distance": 9272.796282688787,
-"moving_time": "1:22:10",
-"type": "Kayaking",
-"start_date": "2019-04-06 09:18:49",
-"start_date_local": "2019-04-06 17:18:49",
-"location_country": "S303, \u4e60\u6c34\u53bf, \u9075\u4e49\u5e02, \u8d35\u5dde\u7701, \u4e2d\u56fd",
-"summary_polyline": "qmdkDegcfSZjEGnEe@dOq@fEN`If@lEOdBkBdDiFnE_GjBqGNg^{AeMiA}OOcJv@gGnAwDEcG|BcMrBwKjFcHnFsGlK_KpL_M`UsJhMeFpDqM`FmDd@mEmAsJ]qGt@mL~DmDj@iJk@oJ`AqL_BiLiEqFmCsHkFeDqAkGeA_HSeJkBqATyHnEkEnEgF|HaItD}@@?e@",
-"average_heartrate": null,
-"average_speed": 1.8808917409105044,
 "source": "Garmin Connect",
 "streak": 2
 },
@@ -9034,7 +8899,7 @@
 "name": "\u8d35\u5dde\u74ee\u5b89\u5168\u56fd\u5f92\u6b65\u5927\u4f1a",
 "distance": 17344.653754398816,
 "moving_time": "4:26:54",
-"type": "Hike",
+"type": "Trail Run",
 "start_date": "2019-04-20 01:16:08",
 "start_date_local": "2019-04-20 09:16:08",
 "location_country": "X934, \u8349\u5858\u9547, \u74ee\u5b89\u53bf, \u9ed4\u5357\u5e03\u4f9d\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde, \u8d35\u5dde\u7701, 558000, \u4e2d\u56fd",
@@ -9049,7 +8914,7 @@
 "name": "\u8d35\u5dde\u74ee\u5b89\u5f92\u6b65\u5927\u4f1a",
 "distance": 11891.340291458664,
 "moving_time": "3:23:03",
-"type": "Hike",
+"type": "Trail Run",
 "start_date": "2019-04-21 00:27:10",
 "start_date_local": "2019-04-21 08:27:10",
 "location_country": "\u74ee\u5b89\u53bf, \u9ed4\u5357\u5e03\u4f9d\u65cf\u82d7\u65cf\u81ea\u6cbb\u5dde, \u8d35\u5dde\u7701, 558000, \u4e2d\u56fd",
@@ -9079,7 +8944,7 @@
 "name": "\u5e7f\u897f\u51cc\u4e91\u5f92\u6b65\u5927\u4f1a",
 "distance": 10811.0982908049,
 "moving_time": "3:00:36",
-"type": "Hike",
+"type": "Trail Run",
 "start_date": "2019-04-27 01:35:01",
 "start_date_local": "2019-04-27 09:35:01",
 "location_country": "\u51cc\u4e91\u53bf, \u767e\u8272\u5e02, \u5e7f\u897f\u58ee\u65cf\u81ea\u6cbb\u533a, \u4e2d\u56fd",
@@ -9195,26 +9060,11 @@
 "streak": 1
 },
 {
-"run_id": 1558581265000,
-"name": "\u6d77\u5317\u85cf\u65cf\u81ea\u6cbb\u5dde \u767b\u5c71",
-"distance": 3528.0804205328977,
-"moving_time": "1:49:07",
-"type": "Hike",
-"start_date": "2019-05-23 03:14:25",
-"start_date_local": "2019-05-23 11:14:25",
-"location_country": "\u95e8\u6e90\u56de\u65cf\u81ea\u6cbb\u53bf \u0f58\u0f7c\u0f44\u0f0b\u0f61\u0f7c\u0f53\u0f0b\u0f67\u0f74\u0f60\u0f7a\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u5317\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f58\u0f5a\u0f7c\u0f0b\u0f56\u0f61\u0fa3\u0f44\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u9752\u6d77\u7701, \u4e2d\u56fd",
-"summary_polyline": "s}~dFk{djRgLeHaCmG_CyDcEuDMgDkAcBi@@PfBe@fAeA}Bc@\\PdByAs@YnBsBUC|B{AMUbDwCiA}Gt@a@{AoEwEeDiNHiRsAmLk@wOi@gAZmCMeBmB}Ey@kI}AkC?{Ck@sDiAwB",
-"average_heartrate": 122.0,
-"average_speed": 0.5388850497224527,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
 "run_id": 1558676014000,
 "name": "\u5c97\u4ec0\u5361\u4e0b\u5c71",
 "distance": 3553.3355172489278,
 "moving_time": "0:49:07",
-"type": "Hike",
+"type": "Trail Run",
 "start_date": "2019-05-24 05:33:34",
 "start_date_local": "2019-05-24 13:33:34",
 "location_country": "\u95e8\u6e90\u56de\u65cf\u81ea\u6cbb\u53bf \u0f58\u0f7c\u0f44\u0f0b\u0f61\u0f7c\u0f53\u0f0b\u0f67\u0f74\u0f60\u0f7a\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0d, \u6d77\u5317\u85cf\u65cf\u81ea\u6cbb\u5dde \u0f58\u0f5a\u0f7c\u0f0b\u0f56\u0f61\u0fa3\u0f44\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f41\u0f74\u0f63\u0f0d, \u9752\u6d77\u7701, \u4e2d\u56fd",
@@ -9222,7 +9072,7 @@
 "average_heartrate": 108.0,
 "average_speed": 1.205746697403776,
 "source": "Garmin Connect",
-"streak": 2
+"streak": 1
 },
 {
 "run_id": 1558827016000,
@@ -9469,7 +9319,7 @@
 "name": "\u51ef\u4e50\u77f3\u8dd1\u5411\u706b\u661f\u6d3b\u52a8",
 "distance": 6283.944104811899,
 "moving_time": "0:40:14",
-"type": "Run",
+"type": "Trail Run",
 "start_date": "2019-07-10 08:01:26",
 "start_date_local": "2019-07-10 16:01:26",
 "location_country": "\u5965\u8fd0\u6751\u8857\u9053, \u6765\u5e7f\u8425\u4e61, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100101, \u4e2d\u56fd",
@@ -9553,21 +9403,6 @@
 "average_speed": 2.666820069552473,
 "source": "Garmin Connect",
 "streak": 3
-},
-{
-"run_id": 1563412895000,
-"name": "2019\u6cdb\u821f\u4e2d\u56fd\u9ed1\u9f99\u6c5f\u9976\u6cb3\u7ad9",
-"distance": 18664.131583273414,
-"moving_time": "2:09:42",
-"type": "Kayaking",
-"start_date": "2019-07-18 01:21:35",
-"start_date_local": "2019-07-18 09:21:35",
-"location_country": "\u6cbf\u6c5f\u8def, \u9976\u6cb3\u53bf, \u53cc\u9e2d\u5c71\u5e02, \u9ed1\u9f99\u6c5f\u7701, 155100, \u4e2d\u56fd",
-"summary_polyline": "}ft|Gyz~pXkSjLch@lNaKbAmHDyE`CkEd@eEk@}Ue@qKmEoFd@mF_CcGkAiCmCgIeEuVwTuDyAuDqDeGiL_KiJqEsGmJmEiCyDqCcAeJeHwJ}@yMwCwNxBmGEsHx@_Va@cYqGiTeLaQqCeQbAiSbEyD|AqOM{E^yJq@mq@uU_FcAiRcJmLoC}HwDoVwQ_WmOsFgBgEoCaLaCcWsRgDiBkBAqD}AgJ{IkOyJ}OsNq`@}WqLeG{MbAaIqBoLvAmJs@eMLeFaAeKhBwAo@}KGcKhBaFI{E`BsPfKkIxJcQfLgCdFUU\\^",
-"average_heartrate": 98.0,
-"average_speed": 2.3983720872877683,
-"source": "Garmin Connect",
-"streak": 1
 },
 {
 "run_id": 1563448470000,
@@ -9904,7 +9739,7 @@
 "name": "\u6d59\u6c5f\u5b89\u5409\u7af9\u6d77\u80e1\u4e71\u8dd1",
 "distance": 4888.05157894681,
 "moving_time": "0:52:24",
-"type": "Run",
+"type": "Trail Run",
 "start_date": "2019-09-19 08:56:57",
 "start_date_local": "2019-09-19 16:56:57",
 "location_country": "\u7eed\u76ee, \u5b89\u5409\u53bf, \u6e56\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
@@ -12570,21 +12405,6 @@
 "streak": 6
 },
 {
-"run_id": 1605328664000,
-"name": "\u4e00\u5bb6\u56db\u53e3\u94f6\u5c71\u5854\u67972\u767b\u9876",
-"distance": 1235.7991221092364,
-"moving_time": "0:41:07",
-"type": "Hike",
-"start_date": "2020-11-14 04:37:44",
-"start_date_local": "2020-11-14 12:37:44",
-"location_country": "\u94f6\u5c71\u5854\u6797\u666f\u533a, \u4e0a\u5e84\u8def, \u6e56\u95e8\u6751, \u660c\u5e73\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
-"summary_polyline": "cxauFy~}dUoEwCeFbAkAz@[l@j@pAOe@jAkAOu@Nz@a@r@E`BcArABv@s@NKdATfAi@x@jB|H[\\c@oAUdBN`@o@jAa@BBrB]b@@r@nAHCWwAHuCpBi@s@Gd@}@?o@d@KdBi@u@Cr@Sq@g@Pc@q@",
-"average_heartrate": 87.0,
-"average_speed": 0.5009319505915024,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
 "run_id": 1605335429000,
 "name": "\u94f6\u5c71\u5854\u6797\u4e0b\u5c71",
 "distance": 1715.0159652675427,
@@ -12784,7 +12604,7 @@
 "name": "\u5bc6\u4e91\u5357\u5c71\u966a\u9ea6\u82d7\u6ed1\u96ea",
 "distance": 2159.8463176649816,
 "moving_time": "0:33:40",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2020-12-06 03:22:28",
 "start_date_local": "2020-12-06 11:22:28",
 "location_country": "Nanshan Ski Resort, X018, \u94f6\u51b6\u5cad\u6751, \u5bc6\u4e91\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -13264,7 +13084,7 @@
 "name": "\u5bc6\u4e91\u5357\u5c71\u4e0e\u94c1\u54e5\u6ed1\u96ea",
 "distance": 19222.200979532816,
 "moving_time": "4:17:46",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2021-01-20 02:27:05",
 "start_date_local": "2021-01-20 10:27:05",
 "location_country": "Nanshan Ski Resort, X018, \u94f6\u51b6\u5cad\u6751, \u5bc6\u4e91\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -13316,21 +13136,6 @@
 "summary_polyline": "_rwsFchqcUWhAoArAt@j@`@tAsD~HeENwBz@wDOcJpAkFcBcCE_Au@iCNaDw@w@R}ApBc@bEh@\\r@nFEnKaB~AmAJ{@v@u@vD`@vAoDxELbAmCy@mAhAQ~@q@X{@hCeA^m@fFF`Ad@TUHHl@\\WT^@nA|@Dc@xALf@hAb@lAhBDr@l@^g@h@Ft@s@b@fAH[F\\`AjCd@~@lBnD`ApBYr@jAp@ItA|@|AsIQm@b@m@y@iBKcB^mEMcDzAgBk@]\\_@?yAXQa@Or@m@]MDaAn@Ct@sBGUg@n@BeAhD{Fn@eDbBiAOaAx@iA[}Cf@J\\kB`Aq@ToAf@GdAwBxBgAjBqCM}B`AKEwCvCPrB{@pEO^cBtBkCTuBm@}BdAcC",
 "average_heartrate": 124.0,
 "average_speed": 0.6030965070326167,
-"source": "Garmin Connect",
-"streak": 7
-},
-{
-"run_id": 1611375778000,
-"name": "\u6d77\u6dc0\u533a \u722c\u53f0\u9636",
-"distance": 319.6256722626817,
-"moving_time": "0:10:16",
-"type": "Hike",
-"start_date": "2021-01-23 04:22:58",
-"start_date_local": "2021-01-23 12:22:58",
-"location_country": "\uff08\u5371\u9669\uff09, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
-"summary_polyline": "sdzsF}jncUTt@_@~ArAl@jA~C|@d@m@p@@x@a@F",
-"average_heartrate": 129.0,
-"average_speed": 0.5188728445822754,
 "source": "Garmin Connect",
 "streak": 7
 },
@@ -13440,21 +13245,6 @@
 "streak": 6
 },
 {
-"run_id": 1611980310000,
-"name": "\u5317\u4eac\u540e\u82b1\u56ed\u5929\u68af",
-"distance": 44.91528553446168,
-"moving_time": "0:02:27",
-"type": "Hike",
-"start_date": "2021-01-30 04:18:30",
-"start_date_local": "2021-01-30 12:18:30",
-"location_country": "\u4e07\u798f\u68af, \u4e8c\u9053\u6cb3, \u660c\u5e73\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
-"summary_polyline": "sm|sFgvocUcKpNo@iATw@",
-"average_heartrate": 110.0,
-"average_speed": 0.30554616009837876,
-"source": "Garmin Connect",
-"streak": 6
-},
-{
 "run_id": 1612153927000,
 "name": "\u671d\u9633\u516c\u56ed \u8dd1\u6b65",
 "distance": 10201.936094486568,
@@ -13489,7 +13279,7 @@
 "name": "\u548c\u94c1\u54e5\u4e8c\u4e0a\u5357\u5c71",
 "distance": 18256.29789867267,
 "moving_time": "3:51:21",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2021-02-03 02:07:42",
 "start_date_local": "2021-02-03 10:07:42",
 "location_country": "Nanshan Ski Resort, X018, \u94f6\u51b6\u5cad\u6751, \u5bc6\u4e91\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -15315,66 +15105,6 @@
 "streak": 1
 },
 {
-"run_id": 1627351708000,
-"name": "\u5a01\u6d77\u5e02 \u6868\u677f\u51b2\u6d6a",
-"distance": 504.0310869637561,
-"moving_time": "0:14:21",
-"type": "Kayaking",
-"start_date": "2021-07-27 02:08:28",
-"start_date_local": "2021-07-27 10:08:28",
-"location_country": "\u798f\u5730\u4f20\u5947\u6c34\u4e0a\u4e50\u56ed, \u73af\u6d77\u8def, \u6587\u767b\u533a, \u5a01\u6d77\u5e02, \u5c71\u4e1c\u7701, 264400, \u4e2d\u56fd",
-"summary_polyline": "wv{`FascgVlB~AcC}@wCz@dCYyBCf@IU[vAy@`AbBxAJ",
-"average_heartrate": 75.0,
-"average_speed": 0.5854019593074984,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
-"run_id": 1627357130000,
-"name": "\u5a01\u6d77\u5e02 \u516c\u5f00\u6c34\u57df\u6e38\u6cf3",
-"distance": 55.43657992813216,
-"moving_time": "0:03:04",
-"type": "Swim",
-"start_date": "2021-07-27 03:38:50",
-"start_date_local": "2021-07-27 11:38:50",
-"location_country": "\u798f\u5730\u4f20\u5947\u6c34\u4e0a\u4e50\u56ed, \u73af\u6d77\u8def, \u6587\u767b\u533a, \u5a01\u6d77\u5e02, \u5c71\u4e1c\u7701, 264400, \u4e2d\u56fd",
-"summary_polyline": "s~{`FoscgVtCcBtA|@",
-"average_heartrate": null,
-"average_speed": 0.30128576047897915,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
-"run_id": 1627373600000,
-"name": "\u5a01\u6d77\u5e02 \u516c\u5f00\u6c34\u57df\u6e38\u6cf3",
-"distance": 787.0251104243545,
-"moving_time": "0:30:48",
-"type": "Swim",
-"start_date": "2021-07-27 08:13:20",
-"start_date_local": "2021-07-27 16:13:20",
-"location_country": "\u798f\u5730\u4f20\u5947\u6c34\u4e0a\u4e50\u56ed, \u73af\u6d77\u8def, \u6587\u767b\u533a, \u5a01\u6d77\u5e02, \u5c71\u4e1c\u7701, 264400, \u4e2d\u56fd",
-"summary_polyline": "}y{`Fa}cgVcA_BuAJg@pBeAdAAbBp@dBrHdJjAe@bAaFDeBgAm@JpD",
-"average_heartrate": null,
-"average_speed": 0.42587938875776754,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
-"run_id": 1627436813000,
-"name": "\u5a01\u6d77\u5e02 \u6868\u677f\u51b2\u6d6a",
-"distance": 633.2210491275614,
-"moving_time": "0:20:50",
-"type": "Kayaking",
-"start_date": "2021-07-28 01:46:53",
-"start_date_local": "2021-07-28 09:46:53",
-"location_country": "\u798f\u5730\u4f20\u5947\u6c34\u4e0a\u4e50\u56ed, \u73af\u6d77\u8def, \u6587\u767b\u533a, \u5a01\u6d77\u5e02, \u5c71\u4e1c\u7701, 264400, \u4e2d\u56fd",
-"summary_polyline": "ay{`FircgVXQVfA_@NNu@q@\\D_@Ex@E}@v@@Ha@uCrAb@AYOz@a@I[PR]n@k@HdAqABn@cABh@Yh@Xm@D[g@JZUC|@Jn@c@b@h@xBNa@Td@k@]MLL",
-"average_heartrate": 75.0,
-"average_speed": 0.5065768393020491,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
 "run_id": 1627553134000,
 "name": "\u5a01\u6d77\u5e02 \u6b65\u884c",
 "distance": 3727.188386681217,
@@ -15387,7 +15117,7 @@
 "average_heartrate": 96.0,
 "average_speed": 0.6509235743418122,
 "source": "Garmin Connect",
-"streak": 3
+"streak": 1
 },
 {
 "run_id": 1627619359000,
@@ -15402,7 +15132,7 @@
 "average_heartrate": 65.0,
 "average_speed": 3.3921832048337515,
 "source": "Garmin Connect",
-"streak": 4
+"streak": 2
 },
 {
 "run_id": 1627633054000,
@@ -15417,37 +15147,7 @@
 "average_heartrate": 80.0,
 "average_speed": 1.3330415985098631,
 "source": "Garmin Connect",
-"streak": 4
-},
-{
-"run_id": 1627803233000,
-"name": "\u5a01\u6d77\u5e02 \u516c\u5f00\u6c34\u57df\u6e38\u6cf3",
-"distance": 0.0,
-"moving_time": "0:00:00",
-"type": "Kayaking",
-"start_date": "2021-08-01 07:33:53",
-"start_date_local": "2021-08-01 15:33:53",
-"location_country": "\u798f\u5730\u4f20\u5947\u6c34\u4e0a\u4e50\u56ed, \u73af\u6d77\u8def, \u6587\u767b\u533a, \u5a01\u6d77\u5e02, \u5c71\u4e1c\u7701, 264400, \u4e2d\u56fd",
-"summary_polyline": "mz{`FepcgVd@k@|D|@Ww@",
-"average_heartrate": null,
-"average_speed": 0.0,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
-"run_id": 1627809880000,
-"name": "\u5a01\u6d77\u722c\u722c\u6e38",
-"distance": 793.9469761512529,
-"moving_time": "0:25:27",
-"type": "Swim",
-"start_date": "2021-08-01 09:24:40",
-"start_date_local": "2021-08-01 17:24:40",
-"location_country": "\u798f\u5730\u4f20\u5947\u6c34\u4e0a\u4e50\u56ed, \u73af\u6d77\u8def, \u6587\u767b\u533a, \u5a01\u6d77\u5e02, \u5c71\u4e1c\u7701, 264400, \u4e2d\u56fd",
-"summary_polyline": "yz{`FaqcgVJU_@GFl@PUSV\\Q[h@|@e@s@Aj@u@PXYABXp@E{APz@K[U{@`@r@w@t@R]c@mAp@HTbCYeCl@dCi@|Bb@a@Iu@gCz@|B",
-"average_heartrate": 82.0,
-"average_speed": 0.5199390806491505,
-"source": "Garmin Connect",
-"streak": 1
+"streak": 2
 },
 {
 "run_id": 1627903751000,
@@ -15462,7 +15162,7 @@
 "average_heartrate": 124.0,
 "average_speed": 1.550558711332662,
 "source": "Garmin Connect",
-"streak": 2
+"streak": 1
 },
 {
 "run_id": 1627945079000,
@@ -15477,22 +15177,7 @@
 "average_heartrate": 130.0,
 "average_speed": 2.3622150066062235,
 "source": "Garmin Connect",
-"streak": 3
-},
-{
-"run_id": 1627960939000,
-"name": "\u5a01\u6d77\u5e02 \u900d\u9065\u6e7e",
-"distance": 87.59613177232781,
-"moving_time": "0:04:31",
-"type": "Swim",
-"start_date": "2021-08-03 03:22:19",
-"start_date_local": "2021-08-03 11:22:19",
-"location_country": "G228, \u73af\u7fe0\u533a, \u5a01\u6d77\u5e02, \u5c71\u4e1c\u7701, 264200, \u4e2d\u56fd",
-"summary_polyline": "{nicFu}siVHsBZfDMhARaAzCg@ViA",
-"average_heartrate": null,
-"average_speed": 0.3232329585694753,
-"source": "Garmin Connect",
-"streak": 3
+"streak": 2
 },
 {
 "run_id": 1628030108000,
@@ -15507,7 +15192,7 @@
 "average_heartrate": 155.0,
 "average_speed": 2.136723533706868,
 "source": "Garmin Connect",
-"streak": 4
+"streak": 3
 },
 {
 "run_id": 1628338934000,
@@ -16935,21 +16620,6 @@
 "streak": 7
 },
 {
-"run_id": 1637120898000,
-"name": "\u6d77\u6dc0\u533a \u722c\u9999\u5c71",
-"distance": 1388.5042974286816,
-"moving_time": "0:52:37",
-"type": "Hike",
-"start_date": "2021-11-17 03:48:18",
-"start_date_local": "2021-11-17 11:48:18",
-"location_country": "\u78a7\u4e91\u5bfa\u5317\u8def, \u5854\u540e\u8eab, \u5357\u8f9b\u6751, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100094, \u4e2d\u56fd",
-"summary_polyline": "ijbsFytcdUq@EKlBWHv@tD|@bAUfA~@nDKr@b@SU~@XfC`AzA?z@j@^a@fAd@FMXr@pBOfJD]^VIZOq@dBdCdAjM`@vBhBlC~@lI^j@M]F^\\U?}@d@Y_@Dh@Bd@|B`@F",
-"average_heartrate": 116.0,
-"average_speed": 0.43981764251779587,
-"source": "Garmin Connect",
-"streak": 7
-},
-{
 "run_id": 1637126516000,
 "name": "\u6d77\u6dc0\u533a \u4e09\u4eba\u722c\u9999\u5c71",
 "distance": 3739.0046884012827,
@@ -17284,7 +16954,7 @@
 "name": "\u660c\u5e73\u533a\u519b\u90fd\u5c71\u5355\u677f\u6ed1\u96ea",
 "distance": 990.0961198616889,
 "moving_time": "0:33:02",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2021-12-21 07:39:39",
 "start_date_local": "2021-12-21 15:39:39",
 "location_country": "\u660c\u5d14\u8def, \u5d14\u6751\u9547, \u660c\u5e73\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -17299,7 +16969,7 @@
 "name": "\u660c\u5e73\u533a\u519b\u90fd\u5c71\u5355\u677f\u6ed1\u96ea",
 "distance": 54.88179550146693,
 "moving_time": "0:00:37",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2021-12-21 13:00:44",
 "start_date_local": "2021-12-21 21:00:44",
 "location_country": "\u660c\u5d14\u8def, \u5d14\u6751\u9547, \u660c\u5e73\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -17314,7 +16984,7 @@
 "name": "\u660c\u5e73\u533a\u519b\u90fd\u5c71\u5355\u677f\u6ed1\u96ea",
 "distance": 2649.4290651073106,
 "moving_time": "0:24:24",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2021-12-22 01:31:08",
 "start_date_local": "2021-12-22 09:31:08",
 "location_country": "\u516b\u5bb6\u6751, \u660c\u5e73\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -17494,7 +17164,7 @@
 "name": "\u5ef6\u5e86\u533a\u516b\u8fbe\u5cad\u5355\u677f\u6ed1\u96ea",
 "distance": 12364.545607867676,
 "moving_time": "1:46:31",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2022-01-07 06:07:51",
 "start_date_local": "2022-01-07 14:07:51",
 "location_country": "\u4eac\u793c\u9ad8\u901f, \u8425\u57ce\u5b50\u6751, \u5ef6\u5e86\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -17509,7 +17179,7 @@
 "name": "\u5ef6\u5e86\u533a\u516b\u8fbe\u5cad\u5355\u677f\u6ed1\u96ea",
 "distance": 4760.22167147418,
 "moving_time": "0:59:36",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2022-01-08 02:14:45",
 "start_date_local": "2022-01-08 10:14:45",
 "location_country": "\u8425\u57ce\u5b50\u96a7\u9053, \u5e2e\u6c34\u5cea\u6751, \u5ef6\u5e86\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -17524,7 +17194,7 @@
 "name": "\u5ef6\u5e86\u533a\u516b\u8fbe\u5cad\u5355\u677f\u6ed1\u96ea",
 "distance": 7516.60112509004,
 "moving_time": "0:56:04",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2022-01-08 05:48:56",
 "start_date_local": "2022-01-08 13:48:56",
 "location_country": "\u8425\u57ce\u5b50\u96a7\u9053, \u5e2e\u6c34\u5cea\u6751, \u5ef6\u5e86\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -17704,7 +17374,7 @@
 "name": "\u5bc6\u4e91\u533a \u5357\u5c71\u6ed1\u96ea\u573a\u5355\u677f\u6ed1\u96ea",
 "distance": 12777.318530112885,
 "moving_time": "2:36:00",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2022-01-22 06:20:07",
 "start_date_local": "2022-01-22 14:20:07",
 "location_country": "\u5723\u6c34\u5934\u6751, \u5bc6\u4e91\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
@@ -18331,16 +18001,16 @@
 },
 {
 "run_id": 1646446385000,
-"name": "\u671d\u9633\u533a \u9a91\u884c",
-"distance": 5721.314120973316,
-"moving_time": "1:05:59",
-"type": "Ride",
+"name": "\u671d\u9633\u533a \u6b65\u884c",
+"distance": 5782.947938397538,
+"moving_time": "1:08:35",
+"type": "Hike",
 "start_date": "2022-03-05 02:13:05",
 "start_date_local": "2022-03-05 10:13:05",
 "location_country": "\u516d\u91cc\u5c6f\u8857\u9053, \u516d\u91cc\u5c6f\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
-"summary_polyline": "qkvrFwb|eU[sCJr@WMRN?e@LfBWmCc@t@s@UJwAqA}BsBDg@hDfA}@bBGp@p@MvBq@x@{EdAXlA`Bc@`BgApAELiAa@i@yCTqDaAo@jAYu@kAIqEf@kAgCDcEkAe@mAaBaD}@{BFaBrAeCrEElBR~ArAFWwBj@gGt@v@L`DtASjAnBzA?LlA_AvCuDH}@qCeCaAS\\nBnDt@~KtAfBtCiCfCWfEqDh@wCYyCcAx@oAYYkCC`@{CbB@vEkAfBd@|CuAlCpBtAnCOhFkGQgAx@wATgCw@OSs@XaChFKP`BEoFXjEbB}@fEv@lAw@b@cBjAzC",
+"summary_polyline": "qkvrFwb|eUe@oBPOB^WMRN?e@LfBWmCc@t@s@ULsAsAaCsBDg@hDfA}@bBGp@p@MvB_@p@mFlAXlA`Bc@`BgApAELiAa@i@eCXeEeAo@jAYu@kAIqEf@gAsB@wEkAe@mAaBaD}@{BFaBrAeCrEElBR~ArAFWwBZw@NoEt@v@L`DtASnArBvACLlA_AvCuDH}@qCeCaASRnBxDt@~KtAfBt@S~AuBbCSjEuDh@wCYyCcAx@oAYYkCC`@{CbBBnEmAnBd@|CuAlCpBtAnCOhFkGQkAx@sATgCw@OSs@XaCnFIJ~AEoFXjE~A}@jEv@lAw@b@cBjAzC",
 "average_heartrate": 140.0,
-"average_speed": 1.4451412278285718,
+"average_speed": 1.4053336423809326,
 "source": "Garmin Connect",
 "streak": 1
 },
@@ -20460,21 +20130,6 @@
 "streak": 1
 },
 {
-"run_id": 1659158076000,
-"name": "\u6000\u67d4\u533a \u767d\u6cb3\u6e7e\u905b\u5a03\u73a9\u6c34",
-"distance": 0.0,
-"moving_time": "0:00:00",
-"type": "Swim",
-"start_date": "2022-07-30 05:14:36",
-"start_date_local": "2022-07-30 13:14:36",
-"location_country": "\u524d\u9752\u8def, \u53cc\u6587\u94fa\u6751, \u6000\u67d4\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
-"summary_polyline": "ogbwFikagUgBsB",
-"average_heartrate": null,
-"average_speed": 0.0,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
 "run_id": 1659355492000,
 "name": "\u671d\u9633\u533a\u4e0e\u5b59\u5a1c\u7ea6\u5965\u68ee \u8dd1\u6b65",
 "distance": 9747.86306630393,
@@ -20580,21 +20235,6 @@
 "streak": 1
 },
 {
-"run_id": 1660101135000,
-"name": "\u671d\u9633\u516c\u56ed \u5212\u8239",
-"distance": 4220.111580267769,
-"moving_time": "1:10:58",
-"type": "Kayaking",
-"start_date": "2022-08-10 03:12:15",
-"start_date_local": "2022-08-10 11:12:15",
-"location_country": "\u5317\u6e56\u6865, \u8f9b\u5e84\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100125, \u4e2d\u56fd",
-"summary_polyline": "_lyrF{l|eUh@Ug@i@DoB~AzE`ABv@~Bj@Kb@`AxEqA`HfE\\s@UtB~BbD^KJiB^E{@_@lDqAnFe@~@pA~@EYkAyCJg@YoBj@~DMtB\\xDzMdFvFdC^hCu@x@\\Ba@hAY@f@vAKm@YaBn@sCIeClAyCaDmBc@`@G_BmBi@iGsAcDqBiAkD@mCr@kG_@sGaDoL{AuDsCyAQB[mBpF",
-"average_heartrate": 53.0,
-"average_speed": 0.9911018272117822,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
 "run_id": 1660133497000,
 "name": "\u671d\u9633\u516c\u56ed \u8dd1\u6b65",
 "distance": 4922.560339911038,
@@ -20655,21 +20295,6 @@
 "streak": 1
 },
 {
-"run_id": 1660887850000,
-"name": "\u5e73\u8c37\u533a \u6868\u677f\u51b2\u6d6a",
-"distance": 3253.106466968915,
-"moving_time": "0:46:21",
-"type": "Kayaking",
-"start_date": "2022-08-19 05:44:10",
-"start_date_local": "2022-08-19 13:44:10",
-"location_country": "\u9ed1\u8c46\u5cea\u6751, \u5e73\u8c37\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
-"summary_polyline": "gemtFylrjU[j@qAPzAa@k@D@wA^Zg@]Nj@UFViAMj@l@Gs@Gz@~@O|@Fm@_@KRDAg@ZJu@ETY_@QiAnTmBuLfBm@fIRaGgELa@T\\Yn@d@Ea@]VSAp@JUd@jAw@|ByAh@Cb@tBiBNeBOkAo@q@H_@`BvDS~@kA|@bBi@lBzBf@IEo@aE{ECoA_@MxAPYp@\\l@u@Er@C[SHXRk@G\\s@MbAbCUcB_@z@^HWDb@eAEj@m@H|As@oAHx@d@Or@^]T`@]b@GmAOrBl@eAo@cCiCaB~@CzCpFFx@eAgDGcBa@@P[qAKWZHe@`@?",
-"average_heartrate": 74.0,
-"average_speed": 1.1697614048791496,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
 "run_id": 1660903431000,
 "name": "\u5e73\u8c37\u533a\u677e\u9e23\u8425\u5730\u6253\u5361 \u8dd1\u6b65",
 "distance": 3075.8171630619117,
@@ -20685,36 +20310,6 @@
 "streak": 1
 },
 {
-"run_id": 1660946827000,
-"name": "\u5e73\u8c37\u533a \u76ae\u5212\u8247",
-"distance": 2683.9157399855,
-"moving_time": "0:47:50",
-"type": "Kayaking",
-"start_date": "2022-08-19 22:07:07",
-"start_date_local": "2022-08-20 06:07:07",
-"location_country": "\u9ed1\u8c46\u5cea\u6751, \u5e73\u8c37\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
-"summary_polyline": "gamtF{krjUiCbA{BB|@S`AfAC`AaADpAi@j@R]kAPOtBfB_CyB_@}AMVpEdFaDu@{Cx@tA_BRgDbBc@aDnAEe@dAkAtApAnAfDWZg@_@i@gEk@k@uEtA|EuAZXk@^a@BGk@vAYUI@~AwAF]_@bAj@h@Qn@~@POaA`CA}Ew@G@a@jAAEg@XxA|AtAAe@eCyCe@h@",
-"average_heartrate": 76.0,
-"average_speed": 0.9351622787405923,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
-"run_id": 1660959623000,
-"name": "\u5e73\u8c37\u533a \u516c\u5f00\u6c34\u57df\u6e38\u6cf3",
-"distance": 0.0,
-"moving_time": "0:00:00",
-"type": "Swim",
-"start_date": "2022-08-20 01:40:23",
-"start_date_local": "2022-08-20 09:40:23",
-"location_country": "\u9ed1\u8c46\u5cea\u6751, \u5e73\u8c37\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
-"summary_polyline": "yamtFkkrjUmCgB^We@x@Tc@g@c@",
-"average_heartrate": null,
-"average_speed": 0.0,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
 "run_id": 1661046779000,
 "name": "\u5ef6\u5e86\u533a \u5f92\u6b65",
 "distance": 1998.4003672031085,
@@ -20727,7 +20322,7 @@
 "average_heartrate": 81.0,
 "average_speed": 1.064677872777362,
 "source": "Garmin Connect",
-"streak": 3
+"streak": 1
 },
 {
 "run_id": 1661050113000,
@@ -20742,7 +20337,7 @@
 "average_heartrate": 111.0,
 "average_speed": 1.3410172359585657,
 "source": "Garmin Connect",
-"streak": 3
+"streak": 1
 },
 {
 "run_id": 1661054358000,
@@ -20757,7 +20352,7 @@
 "average_heartrate": 77.0,
 "average_speed": 0.9008863007197468,
 "source": "Garmin Connect",
-"streak": 3
+"streak": 1
 },
 {
 "run_id": 1661248830000,
@@ -22485,6 +22080,21 @@
 "streak": 2
 },
 {
+"run_id": 1676682992000,
+"name": "\u9999\u6e2f\u9ea6\u7406\u6d69\u5f84\u5f92\u6b65",
+"distance": 24734.20417950743,
+"moving_time": "6:35:38",
+"type": "Hike",
+"start_date": "2023-02-18 01:16:32",
+"start_date_local": "2023-02-18 09:16:32",
+"location_country": "\u5927\u7db2\u4ed4\u8def Tai Mong Tsai Road, \u5317\u6f6d\u6d8c Pak Tam Chung, \u897f\u8ca2\u5340 Sai Kung District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd",
+"summary_polyline": "snugC_cwxTJ_AdAm@Bd@mDUgE{EkFyJ?mDtAgCnA_AhFoAzGsEnCcFf@gF`EyGfBKpB{AhFcAnBcC`MiFr@}CjCg@`F_HvCoAxEWjNjHpBPzAkClEuCrAgD~CeCJqAz@fAfC_ApAuDz@eAbDe@fC~Al@@dP}KlP}FJ{B~BsEnB@xAoAzBRfCiGhBk@xAeDjFsD|Fs@?mE~DsBfCk@`CgD`Ba@fAoDSc@sBo@JgC[sA^a@rADR}@iCyCoDAs@mEcBeBC}AnGcKrC{CnLcEP}@c@_CvAuAXqDb@QoAEeBeAp@mCa@mCt@eByAuDl@oCsAaCcAwHFmBw@KOg@nA_HWeCs@[}D|@mAwBsH_BiGiEcBgBe@{AvCuAbBsIpBeBtBzAoBgAy@DmAzBYdD}@bCgDtBkAxAaBMuBsBwF{AiHGuCf@yBjEmCz@eAe@aBwCy@RgFa@z@wAD{@s@gAnBoBiBlBiEgCaCNaBoBeCI{Cb@c@eAAcB}AwCeAe@Bs@w@uAMqEd@_@iALw@t@mC?uGbAk@vBsBZkAdBcEc@_Cx@uCQaAe@yHxAaDhB}E`AEjDiCfAhArAiA`@uAdBB`CrAp@HzCx@t@HnArB`@rBpAxD|FY`D`@xAElD`@r@aDtCeAHB~@[^gEdAyANq@WYp@qAJu@~B}A_B?gAwCcJyAm@k@mC{DoAiBeBwBp@sAKwC}AFa@UVoBc@uBiBwBFoAvBcMtBsAYw@q@OaFg@k@}@F_BrAkAAg@kA}Bs@_BkEkAa@}@J_C{Am@qBmAC}CxBmBaD{BaAgChAyKqJu@Lo@a@iBt@W`@PfC_BlCuCNyA|AcD`@cEzFiDr@wAe@mBVmCjCyGr@}@nAXbEYzFZtBu@bAkBr@oEs@t@`GgAtCpCfFNvGg@~D}AxBJ~A{AlBHvGi@~DBjE]hA\\fBGbC}@lF{@lBb@pAE~DsBrCNdA|@|@hBRh@h@NtCc@rDJ`A}CjHVX{CvBg@fENdBeAr@HnAiA`Du@P{BtB_AN`AxJPdHiAh@VpAy@|DTzA`AvBnA\\pBrGhJbKn@dAFtAfExA",
+"average_heartrate": null,
+"average_speed": 1.041966643335893,
+"source": "Garmin Connect",
+"streak": 3
+},
+{
 "run_id": 1676956370000,
 "name": "\u671d\u9633\u516c\u56ed\u8dd1\u6b65",
 "distance": 10277.319752699388,
@@ -22571,21 +22181,6 @@
 "summary_polyline": "__bsFy|edUh@jCjBLl@j@PnOp@zCpAtB|CnMNbCuApAIbDeAIrAbHGvD^Zl@jDc@bBdAnEw@rCp@r@i@|Bv@l@k@Gy@`CsAIeAgAa@`@G`BzBd@Oh@j@GBn@k@~@N\\YDf@|A[bDPxAkA`BS_BuC|DuAZh@rIxBvD?~@v@tAEvAtAhBuALTxA`@cAb@G|@nBxGXB[q@IiByBF}BeAsCPiBr@EPe@CkDj@JAo@bAYuAeG^yAH_E_AeCd@Ma@m@f@@Ya@f@@a@i@\\i@BgDjAcAgBgA{@kCc@MVa@s@YTyAUa@ZROa@j@UXkD}AY^mBc@kDgB_Fn@gAw@gHvAU@kA`A}AWqDkCgKsAyBmA_OD{CoDWOcI[S",
 "average_heartrate": 76.0,
 "average_speed": 0.636323216732525,
-"source": "Garmin Connect",
-"streak": 2
-},
-{
-"run_id": 1677387169000,
-"name": "\u6d77\u6dc0\u533a \u722c\u9999\u5c71",
-"distance": 1274.0322695546108,
-"moving_time": "0:45:11",
-"type": "Hike",
-"start_date": "2023-02-26 04:52:49",
-"start_date_local": "2023-02-26 12:52:49",
-"location_country": "\u9999\u5c71\u8857\u9053, \u5357\u8f9b\u6751, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100094, \u4e2d\u56fd",
-"summary_polyline": "_rasFkfddUn@zQf@xCm@xBrA`Eg@f@OzBn@n@g@d@?|@p@v@m@@w@xBkBYg@{@]XIpBnBh@Kh@t@CQITn@w@lB^`B_@pCVtBkAhAU}AmDxEy@JI`Ap@dGzBtDBjAp@fAMfA|A`Ck@P",
-"average_heartrate": 85.0,
-"average_speed": 0.46994919570439353,
 "source": "Garmin Connect",
 "streak": 2
 },
@@ -23655,21 +23250,6 @@
 "streak": 9
 },
 {
-"run_id": 1686846870000,
-"name": "\u5965\u5730\u5229L\u00e4ngenfeld \u516c\u5f00\u6c34\u57df\u6e38\u6cf3",
-"distance": 49.45150394266237,
-"moving_time": "0:01:43",
-"type": "Swim",
-"start_date": "2023-06-15 16:34:30",
-"start_date_local": "2023-06-15 18:34:30",
-"location_country": "Albin-Egger-Lienz-Fischbachpromenade, Oberl\u00e4ngenfeld, L\u00e4ngenfeld, Gemeinde L\u00e4ngenfeld, Bezirk Imst, Tirol, 6444, \u00d6sterreich",
-"summary_polyline": "ckh~Gal|aA^NMc@PrAZB_@gA\\O}@WDb@",
-"average_heartrate": 82.0,
-"average_speed": 0.48011168876371235,
-"source": "Garmin Connect",
-"streak": 9
-},
-{
 "run_id": 1686902738000,
 "name": "\u5965\u5730\u5229Silz \u6b65\u884c",
 "distance": 7006.363205157036,
@@ -23839,7 +23419,7 @@
 "name": "\u5fb7\u56fdNeuss \u5ea6\u5047\u6751\u6ed1\u96ea/\u96ea\u677f\u6ed1\u96ea",
 "distance": 758.8322361456262,
 "moving_time": "0:16:43",
-"type": "Snowboard",
+"type": "Ski",
 "start_date": "2023-06-20 12:06:54",
 "start_date_local": "2023-06-20 14:06:54",
 "location_country": "Alpenpark Neuss, L\u00fcttenglehner Stra\u00dfe, Grefrath, Neuss, Rhein-Kreis Neuss, Nordrhein-Westfalen, 41472, Deutschland",
@@ -24766,7 +24346,7 @@
 },
 {
 "run_id": 1697287643000,
-"name": "\u6d25\u9a6c\u7fa4\u805a\u4f1a\u56de\u9152\u5e97",
+"name": "\u5929\u9a6c\u7fa4\u805a\u4f1a\u56de\u9152\u5e97",
 "distance": 1365.6022267989115,
 "moving_time": "0:08:32",
 "type": "Ride",
@@ -24961,7 +24541,7 @@
 },
 {
 "run_id": 1699045150000,
-"name": "\u56db\u59d1\u5a18\u5c71\u8d8a\u91ce\u8dd1DNF",
+"name": "\u56db\u59d1\u5a18\u5c71\u8d8a\u91ce\u8d5bDNF",
 "distance": 33441.93452873467,
 "moving_time": "10:51:01",
 "type": "Trail Run",
