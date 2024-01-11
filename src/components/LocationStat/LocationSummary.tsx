@@ -11,7 +11,7 @@ const LocationSummary = () => {
         {countries ? <Stat value={countries.length} description="/193 个国家" /> : null}
         {provinces ? <Stat value={provinces.length} description="/34 个中国省份" /> : null}
         {cities ? (
-          <Stat value={Object.keys(cities).length} description="/338 个中国城市" />
+          <Stat value={Object.keys(cities).length} description="/370 个中国城市" />
         ) : null}
       </section>
       <hr color="red" />
