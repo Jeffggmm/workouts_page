@@ -4,7 +4,8 @@ interface ICity {
   province: string;
   city?: string;
 }
-
+   // 数据对照高德地图的中国城市列表，包括市、州、盟、地区和海南的一些县（耿直修订）
+  //河北省共有下列11个城市
 export const chinaCities: ICity[] = [
   {
     code: '130100',
@@ -72,6 +73,7 @@ export const chinaCities: ICity[] = [
     province: '13',
     city: '11',
   },
+   //山西省共有下列11个城市
   {
     code: '140100',
     name: '太原市',
@@ -138,6 +140,7 @@ export const chinaCities: ICity[] = [
     province: '14',
     city: '11',
   },
+   //内蒙古共有下列12个城市
   {
     code: '150100',
     name: '呼和浩特市',
@@ -210,6 +213,7 @@ export const chinaCities: ICity[] = [
     province: '15',
     city: '29',
   },
+    //辽宁共有下列14个城市
   {
     code: '210100',
     name: '沈阳市',
@@ -294,6 +298,7 @@ export const chinaCities: ICity[] = [
     province: '21',
     city: '14',
   },
+    //吉林省共有下列9个城市
   {
     code: '220100',
     name: '长春市',
@@ -347,7 +352,8 @@ export const chinaCities: ICity[] = [
     name: '延边朝鲜族自治州',
     province: '22',
     city: '24',
-  },
+  },  //黑龙江共有下列13个城市
+  
   {
     code: '230100',
     name: '哈尔滨市',
@@ -426,6 +432,7 @@ export const chinaCities: ICity[] = [
     province: '23',
     city: '27',
   },
+    //江苏共有下列13个城市
   {
     code: '320100',
     name: '南京市',
@@ -504,6 +511,7 @@ export const chinaCities: ICity[] = [
     province: '32',
     city: '13',
   },
+    //浙江共有下列11个城市
   {
     code: '330100',
     name: '杭州市',
@@ -570,6 +578,7 @@ export const chinaCities: ICity[] = [
     province: '33',
     city: '11',
   },
+    //安徽共有下列16个城市
   {
     code: '340100',
     name: '合肥市',
@@ -666,6 +675,7 @@ export const chinaCities: ICity[] = [
     province: '34',
     city: '18',
   },
+    //福建共有下列9个城市
   {
     code: '350100',
     name: '福州市',
@@ -720,6 +730,7 @@ export const chinaCities: ICity[] = [
     province: '35',
     city: '09',
   },
+    //江西共有下列11个城市
   {
     code: '360100',
     name: '南昌市',
@@ -786,6 +797,7 @@ export const chinaCities: ICity[] = [
     province: '36',
     city: '11',
   },
+    //山东共有下列16个城市
   {
     code: '370100',
     name: '济南市',
@@ -882,6 +894,7 @@ export const chinaCities: ICity[] = [
     province: '37',
     city: '17',
   },
+    //河南共有下列18个城市
   {
     code: '410100',
     name: '郑州市',
@@ -990,6 +1003,7 @@ export const chinaCities: ICity[] = [
     province: '41',
     city: '18',
   },
+    //湖北共有下列17个城市，神农架待验证轨迹是林区还是其他什么
   {
     code: '420100',
     name: '武汉市',
@@ -1068,6 +1082,31 @@ export const chinaCities: ICity[] = [
     province: '42',
     city: '28',
   },
+   {
+    code: '429004',
+    name: '仙桃市',
+    province: '42',
+    city: '14',
+  },
+   {
+    code: '429005',
+    name: '潜江市',
+    province: '42',
+    city: '15',
+  },
+  {
+    code: '429006',
+    name: '天门市',
+    province: '42',
+    city: '16',
+  },
+  {
+    code: '429021',
+    name: '神农架林区',
+    province: '42',
+    city: '17',
+  },
+    //湖南共有下列14个城市
   {
     code: '430100',
     name: '长沙市',
@@ -1152,6 +1191,7 @@ export const chinaCities: ICity[] = [
     province: '43',
     city: '31',
   },
+   //广东共有下列21个城市高德有东沙群岛但民政部2020公布的城市中无这个由台实际控制区
   {
     code: '440100',
     name: '广州市',
@@ -1260,6 +1300,7 @@ export const chinaCities: ICity[] = [
     province: '44',
     city: '20',
   },
+  
   {
     code: '445100',
     name: '潮州市',
@@ -1278,6 +1319,7 @@ export const chinaCities: ICity[] = [
     province: '44',
     city: '53',
   },
+  //广西共有下列14个城市
   {
     code: '450100',
     name: '南宁市',
@@ -1362,6 +1404,7 @@ export const chinaCities: ICity[] = [
     province: '45',
     city: '14',
   },
+  //海南共有下列19个城市
   {
     code: '460100',
     name: '海口市',
@@ -1475,9 +1518,8 @@ export const chinaCities: ICity[] = [
     name: '琼中黎族苗族自治县',
     province: '46',
     city: '19',
-  },
-   
-
+  },   
+//四川共有下列21个城市
   {
     code: '510100',
     name: '成都市',
@@ -1604,6 +1646,7 @@ export const chinaCities: ICity[] = [
     province: '51',
     city: '34',
   },
+  //贵州共有下列9个城市
   {
     code: '520100',
     name: '贵阳市',
@@ -1658,6 +1701,7 @@ export const chinaCities: ICity[] = [
     province: '52',
     city: '27',
   },
+  //云南共有下列16个城市
   {
     code: '530100',
     name: '昆明市',
@@ -1754,6 +1798,7 @@ export const chinaCities: ICity[] = [
     province: '53',
     city: '34',
   },
+  //西藏共有下列7个城市
   {
     code: '540100',
     name: '拉萨市',
@@ -1796,6 +1841,7 @@ export const chinaCities: ICity[] = [
     province: '54',
     city: '25',
   },
+  //陕西共有下列10个城市
   {
     code: '610100',
     name: '西安市',
@@ -1856,6 +1902,7 @@ export const chinaCities: ICity[] = [
     province: '61',
     city: '10',
   },
+  //甘肃共有下列14个城市
   {
     code: '620100',
     name: '兰州市',
@@ -1940,6 +1987,7 @@ export const chinaCities: ICity[] = [
     province: '62',
     city: '30',
   },
+  //青海共有下列8个城市
   {
     code: '630100',
     name: '西宁市',
@@ -1988,6 +2036,7 @@ export const chinaCities: ICity[] = [
     province: '63',
     city: '28',
   },
+  //宁夏共有下列5个城市
   {
     code: '640100',
     name: '银川市',
@@ -2018,6 +2067,7 @@ export const chinaCities: ICity[] = [
     province: '64',
     city: '05',
   },
+  //新疆共有下列24个城市
   {
     code: '650100',
     name: '乌鲁木齐市',
@@ -2034,74 +2084,135 @@ export const chinaCities: ICity[] = [
     code: '650400',
     name: '吐鲁番市',
     province: '65',
-    city: '04',
+    city: '03',
   },
   {
     code: '650500',
     name: '哈密市',
     province: '65',
-    city: '05',
+    city: '04',
   },
   {
     code: '652300',
     name: '昌吉回族自治州',
     province: '65',
-    city: '23',
+    city: '05',
   },
   {
     code: '652700',
     name: '博尔塔拉蒙古自治州',
     province: '65',
-    city: '27',
+    city: '06',
   },
   {
     code: '652800',
     name: '巴音郭楞蒙古自治州',
     province: '65',
-    city: '28',
+    city: '07',
   },
   {
     code: '652900',
     name: '阿克苏地区',
     province: '65',
-    city: '29',
+    city: '08',
   },
   {
     code: '653000',
     name: '克孜勒苏柯尔克孜自治州',
     province: '65',
-    city: '30',
+    city: '09',
   },
   {
     code: '653100',
     name: '喀什地区',
     province: '65',
-    city: '31',
+    city: '10',
   },
   {
     code: '653200',
     name: '和田地区',
     province: '65',
-    city: '32',
+    city: '11',
   },
   {
     code: '654000',
     name: '伊犁哈萨克自治州',
     province: '65',
-    city: '40',
+    city: '12',
   },
   {
     code: '654200',
     name: '塔城地区',
     province: '65',
-    city: '42',
+    city: '13',
   },
   {
     code: '654300',
     name: '阿勒泰地区',
     province: '65',
-    city: '43',
+    city: '14',
   },
+   {
+    code: '659001',
+    name: '石河子市',
+    province: '65',
+    city: '15',
+  },
+  {
+    code: '659002',
+    name: '阿拉尔市',
+    province: '65',
+    city: '16',
+  },
+  {
+    code: '659003',
+    name: '图木舒克市',
+    province: '65',
+    city: '17',
+  },
+  {
+    code: '659004',
+    name: '五家渠市',
+    province: '65',
+    city: '18',
+  },
+  {
+    code: '659005',
+    name: '北屯市',
+    province: '65',
+    city: '19',
+  },
+  {
+    code: '659006',
+    name: '铁门关市',
+    province: '65',
+    city: '20',
+  },
+  {
+    code: '659007',
+    name: '双河市',
+    province: '65',
+    city: '21',
+  },
+  {
+    code: '659008',
+    name: '可克达拉市',
+    province: '65',
+    city: '12',
+  },
+  {
+    code: '659009',
+    name: '昆玉市',
+    province: '65',
+    city: '23',
+  },
+  {
+    code: '659010',
+    name: '胡杨河市',
+    province: '65',
+    city: '24',
+  },
+  
   {
     code: '429000',
     name: '湖北省 - 自治区直辖县级行政区划',
