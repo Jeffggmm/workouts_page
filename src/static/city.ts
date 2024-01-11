@@ -985,6 +985,12 @@ export const chinaCities: ICity[] = [
     city: '17',
   },
   {
+    code: '459000',
+    name: '济源市',
+    province: '41',
+    city: '18',
+  },
+  {
     code: '420100',
     name: '武汉市',
     province: '42',
@@ -1379,7 +1385,99 @@ export const chinaCities: ICity[] = [
     name: '儋州市',
     province: '46',
     city: '04',
+  }, 
+  {
+    code: '460400',
+    name: '五指山市',
+    province: '46',
+    city: '05',
+  }, 
+  {
+    code: '460400',
+    name: '琼海市',
+    province: '46',
+    city: '06',
+  }, 
+  {
+    code: '460400',
+    name: '文昌市',
+    province: '46',
+    city: '07',
   },
+  {
+    code: '460400',
+    name: '万宁市',
+    province: '46',
+    city: '08', 
+  },
+   {
+    code: '460400',
+    name: '东方市',
+    province: '46',
+    city: '09',
+   },
+    {
+    code: '460400',
+    name: '定安县',
+    province: '46',
+    city: '10',
+  },
+    {
+    code: '460400',
+    name: '屯昌县',
+    province: '46',
+    city: '11',
+  },
+    {
+    code: '460400',
+    name: '澄迈县',
+    province: '46',
+    city: '12',
+  },
+    {
+    code: '460400',
+    name: '临高县',
+    province: '46',
+    city: '13',
+  },
+    {
+    code: '460400',
+    name: '白沙黎族自治县',
+    province: '46',
+    city: '14',
+  },
+    {
+    code: '460400',
+    name: '昌江黎族自治县',
+    province: '46',
+    city: '15',
+  },
+      {
+    code: '460400',
+    name: '乐东黎族自治县',
+    province: '46',
+    city: '16',
+  },
+      {
+    code: '460400',
+    name: '陵水黎族自治县',
+    province: '46',
+    city: '17',
+  },
+      {
+    code: '460400',
+    name: '保亭黎族苗族自治县',
+    province: '46',
+    city: '18',
+  },
+      {
+    code: '460400',
+    name: '琼中黎族苗族自治县',
+    province: '46',
+    city: '19',
+  },
+   
+
   {
     code: '510100',
     name: '成都市',
