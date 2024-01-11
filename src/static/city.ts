@@ -344,7 +344,7 @@ export const chinaCities: ICity[] = [
   },
   {
     code: '222400',
-    name: '延边州',
+    name: '延边朝鲜族自治州',
     province: '22',
     city: '24',
   },
