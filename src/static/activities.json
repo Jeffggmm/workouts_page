@@ -5580,21 +5580,6 @@
 "streak": 1
 },
 {
-"run_id": 1514091821000,
-"name": "\u6fb3\u9580 \u5f92\u6b65",
-"distance": 3340.15894282326,
-"moving_time": "0:57:16",
-"type": "Hike",
-"start_date": "2017-12-24 05:03:41",
-"start_date_local": "2017-12-24 13:03:41",
-"location_country": "\u6fb3\u9580\u5ee3\u5834 The Macau Square, 2-16A, \u7f85\u4fdd\u535a\u58eb\u8857 Rua do Dr. Pedro Jose Lobo, \u5357\u7063 Praia Grande, \u5927\u5802\u5340 S\u00e9, \u6fb3\u9580 Macau, 519020, \u4e2d\u56fd",
-"summary_polyline": "mgmfCm~~sTBjBnDvCpAfCfG`DyB}@c@p@FjAlDnAWhClC^dCrFBvBxBd@JkDKpDyBw@?kBa@eAeCp@m@k@cCXzA|BdBVk@{@uANc@s@eAYDmAw@a@VDQL_AGHeASD}A}CfAGVd@e@PUSJRi@[QoBaARmAaAy@kBqAu@[Bs@~BsByDwBEUwDoAh@b@z@]uC_EXFjA^OnAtBKb@^DTe@iAxB{DpB",
-"average_heartrate": null,
-"average_speed": 0.9721067936039756,
-"source": "Garmin Connect",
-"streak": 1
-},
-{
 "run_id": 1514686554000,
 "name": "\u6d59\u6c5f\u6c5f\u5c71\u6cbf\u6c5f\u8dd1",
 "distance": 11020.390102113155,
