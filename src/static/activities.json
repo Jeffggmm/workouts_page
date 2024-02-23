@@ -25888,5 +25888,20 @@
 "average_speed": 1.8207143032920006,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1708584868000,
+"name": "\u7236\u4e0e\u5b50\u671d\u9633\u516c\u56ed17",
+"distance": 10205.612168318292,
+"moving_time": "1:04:41",
+"type": "Run",
+"start_date": "2024-02-22 06:54:28",
+"start_date_local": "2024-02-22 14:54:28",
+"location_country": "\u9152\u4ed9\u6865\u8857\u9053, \u5c06\u53f0\u5730\u533a, \u671d\u9633\u533a, \u5317\u4eac\u5e02, \u4e2d\u56fd",
+"summary_polyline": "uhzrFwo|eUuAqAeFkJnAcBhJuE~@qCG{@h@p@jAmAfCCLbC_BnBQlCl@z@C~CxBUlA|BFfAmAhBd@hBpAcB|Cb@dAwBZiHlCgChLuF~CJbBdAfBGhB_ARTBrGx@_@xEJpAz@LdCjBxBoBdJNrCqCzAoDFsBa@e@yAwBf@y@rBu@zHmGr@u@}EuRgFZfEnAdD^rCaHjB}CyEiFyPyBwBVw@Sz@`CvB~ElPzCxE~G_Ba@{CuAwD[cDPUnRlFp@|EjGu@`@iFlBmE~A_@h@|AlBZrDC~BoAEyCx@oCB_Bp@qAMu@_BgBMiC{AcAaG`@WiHmDhAcFuAoC^iMbHk@zAMbGiAtB}CWqA|Ak@gBhAgB?iAoAcCwB`@?eDm@gALgC`BmBMuB{BGqB~AiAtCgHdDkCfCrFxJtAd@",
+"average_heartrate": 128.0,
+"average_speed": 2.6296346736197607,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
