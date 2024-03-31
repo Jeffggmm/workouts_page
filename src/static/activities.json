@@ -26263,5 +26263,20 @@
 "average_speed": 2.40402950229266,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1711806408000,
+"name": "Cebu City Walk",
+"distance": 2437.056547085035,
+"moving_time": "0:51:00",
+"type": "Hike",
+"start_date": "2024-03-30 13:46:48",
+"start_date_local": "2024-03-30 21:46:48",
+"location_country": "Ayala Malls Central Bloc, Geonzon Street, Cebu I.T. Park, Cebu City, Central Visayas, 6666, Philippines",
+"summary_polyline": "ov`~@qpgsVHX{@tA}@a@o@d@qAa@Kn@dAh@cAnCvAcEt@Sr@JBZ?i@Yl@n@j@U^j@XMVOqAz@Zh@i@`@Px@e@|@?fAt@l@xBjEnBv@@jEcJvCeEf@K|X|PfFrCtEvA@T",
+"average_heartrate": 72.0,
+"average_speed": 0.7964237081977239,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
