@@ -26278,5 +26278,20 @@
 "average_speed": 0.7964237081977239,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1711849544000,
+"name": "Cebu Walk To Pier1",
+"distance": 3737.394179322752,
+"moving_time": "0:43:22",
+"type": "Hike",
+"start_date": "2024-03-31 01:45:44",
+"start_date_local": "2024-03-31 09:45:44",
+"location_country": "Archbishop Reyes Avenue, Cebu Business Park, Cebu City, Central Visayas, 6666, Philippines",
+"summary_polyline": "en~}@ezfsVfBLrDrAtB_GdBB~DpAfIkBxDdGdNqElCNtKdCjAcBtDe@FfBSe@r@wDxAuCZRZc@ZuDrEIlOyAxZbC~RrDlCiFpBwGVk@TLc@IRTUV",
+"average_heartrate": 86.0,
+"average_speed": 1.4363544117304965,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
