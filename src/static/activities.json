@@ -26293,5 +26293,20 @@
 "average_speed": 1.4363544117304965,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1712013081000,
+"name": "Panglao \u73af\u5c9b\u8dd1",
+"distance": 13761.188930094166,
+"moving_time": "1:56:09",
+"type": "Run",
+"start_date": "2024-04-01 23:11:21",
+"start_date_local": "2024-04-02 07:11:21",
+"location_country": "Amihan Resort Bohol, Panglao Island Circumferential Road, Olivia Homes, Danao, Panglao, Bohol, Central Visayas, 6340, Philippines",
+"summary_polyline": "iihy@aplrV_@{AwCp@]lJg@jBeMtUmSdZgHnDm_@CgQjE{c@xVgM|FyCtCaQzWm@L{EsQf@Dg@KkG_Zyw@{nCxTwJrHkEjHpBzr@z]dDKnMsHvBq@dABv[dP`A?nJrEbKeVvCsE~DfD~GhCxRhEzSxCrGvDbDdAh@nAVxC[`CyAfDSbEFXj@@zAg@XtAe@Z",
+"average_heartrate": 121.0,
+"average_speed": 1.9746289180792318,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
