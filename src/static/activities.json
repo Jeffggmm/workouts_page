@@ -26308,5 +26308,50 @@
 "average_speed": 1.9746289180792318,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1712111108000,
+"name": "Bohol Panglao \u6e9c\u8fbe",
+"distance": 3158.5122240693668,
+"moving_time": "0:52:59",
+"type": "Hike",
+"start_date": "2024-04-03 02:25:08",
+"start_date_local": "2024-04-03 10:25:08",
+"location_country": "Promenade, Tawala, Panglao, Bohol, Central Visayas, 6340, Philippines",
+"summary_polyline": "m{gy@mfmrVyAmKuBaHBs@zBjIDbE|DfWxArCyAcCk@{B{AqKu@a@cGg@XjBeD`@KjBmBdFGnDhBXv@p@q@^Df@RSQa@d@SYwA{An@s@AQnF^}LjBoFLqEQ@f@Em@D@R@Q",
+"average_heartrate": 78.0,
+"average_speed": 0.993555276523865,
+"source": "Garmin Connect",
+"streak": 2
+},
+{
+"run_id": 1712142290000,
+"name": "Panglao \u6b65\u884c",
+"distance": 2436.9328723689687,
+"moving_time": "0:42:44",
+"type": "Hike",
+"start_date": "2024-04-03 11:04:50",
+"start_date_local": "2024-04-03 19:04:50",
+"location_country": "BE Grand Resort, Promenade, Danao, Panglao, Bohol, Central Visayas, 6340, Philippines",
+"summary_polyline": "gygy@q{krVwEv@qAyKwLnBfAkTlBsFQQXK[TTg@[FTIEpA_BnFeApSpLkB~ApLjGsBl@{Ap@A@T",
+"average_heartrate": 80.0,
+"average_speed": 0.9504418378974137,
+"source": "Garmin Connect",
+"streak": 2
+},
+{
+"run_id": 1712182305000,
+"name": "BE Resort \u6668\u8dd1",
+"distance": 3357.798913419238,
+"moving_time": "0:33:07",
+"type": "Run",
+"start_date": "2024-04-03 22:11:45",
+"start_date_local": "2024-04-04 06:11:45",
+"location_country": "BE Grand Resort, Promenade, Danao, Panglao, Bohol, Central Visayas, 6340, Philippines",
+"summary_polyline": "mrgy@{~krVtAYTlAeFPPx@Y\\s@aA{Bj@}AvBXRhBs@`@H{B{ArEsAEyAhAiD`G@MhCVJWvAwHb@gFfBlFgCMkAbAgDvDCv@`@MlAs@d@k@S]dA]Be@]AuClA_@zBZ?nAm@l@\\ZSpA{FReFtA~EkBEmAf@o@JkBXQhBKvB`@KxA_CtA",
+"average_heartrate": 97.0,
+"average_speed": 1.6898837007645888,
+"source": "Garmin Connect",
+"streak": 3
 }
 ]
