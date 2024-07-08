@@ -27390,6 +27390,21 @@
 "streak": 7
 },
 {
+"run_id": 1720230503000,
+"name": "\u6f20\u6cb3\u5e02city walk",
+"distance": 4959.377388848339,
+"moving_time": "2:06:29",
+"type": "Hike",
+"start_date": "2024-07-06 01:48:23",
+"start_date_local": "2024-07-06 09:48:23",
+"location_country": "Mohe Bus Station, \u5317\u6781\u8def, \u6f20\u6cb3\u5e02, \u897f\u6797\u5409\u9547, \u6f20\u6cb3\u5e02, \u5927\u5174\u5b89\u5cad\u5730\u533a, \u9ed1\u9f99\u6c5f\u7701, 165399, \u4e2d\u56fd",
+"summary_polyline": "ypibIqayjVt@oAUgBN`@vI}DnCjREu@jEoDxBv@r@jG_ApBbBvL|AnBNhAzAm@s@_G]TIqAu@`BLd@f@U]Tf@s@aDuQqEi`@WmFeABa@m@\\`AUDYg@b@BArB@s@pAsAqB_QnGwDDcArDeBUuAqAQaA}BmA]xB}E_@mIVrEtC~DhAEVhBj@H^lAn@BDhAvGmD@aArDv\\t@^pAs@qAp@q@]uCkT{@{CqK~Eq@uBsBl@SmCRlBrArC",
+"average_heartrate": 68.0,
+"average_speed": 0.6534955051849175,
+"source": "Garmin Connect",
+"streak": 8
+},
+{
 "run_id": 1720242499000,
 "name": "\u6f20\u6cb3\u5e02\u677e\u82d1\u6253\u5361\u8dd1",
 "distance": 2201.6821472283746,
@@ -27418,5 +27433,35 @@
 "average_speed": 2.5476582927136215,
 "source": "Garmin Connect",
 "streak": 8
+},
+{
+"run_id": 1720352070000,
+"name": "\u7259\u514b\u77f3\u5e02\u6b65\u884c",
+"distance": 1619.6107348065184,
+"moving_time": "0:32:49",
+"type": "Hike",
+"start_date": "2024-07-07 11:34:30",
+"start_date_local": "2024-07-07 19:34:30",
+"location_country": "\u80dc\u5229\u8857\u9053\u529e, \u7259\u514b\u77f3\u5e02, \u547c\u4f26\u8d1d\u5c14\u5e02 \u182c\u1825\u182f\u1825\u1828 \u182a\u1824\u1836\u1822\u1837, \u5185\u8499\u53e4\u81ea\u6cbb\u533a \u1826\u182a\u1826\u1837 \u182e\u1823\u1829\u182d\u1824\u182f \u1824\u1828 \u1825\u182a\u1821\u1837\u1832\u1821\u182d\u1821\u1828 \u1835\u1820\u1830\u1820\u182c\u1823 \u1823\u1837\u1823\u1828, \u4e2d\u56fd",
+"summary_polyline": "_wwkHmr{_Vn@vHn@j@`@_@BlAx@`@X|AOd@_DPVdIUVe@k@g@{MySn@XSF{Ah@ShQGGmIgBVKz@Fg@",
+"average_heartrate": 72.0,
+"average_speed": 0.8225549694294151,
+"source": "Garmin Connect",
+"streak": 9
+},
+{
+"run_id": 1720390555000,
+"name": "\u7259\u514b\u77f3\u5e02\u6668\u8dd1",
+"distance": 10364.637857289605,
+"moving_time": "1:16:53",
+"type": "Run",
+"start_date": "2024-07-07 22:15:55",
+"start_date_local": "2024-07-08 06:15:55",
+"location_country": "\u80dc\u5229\u8857\u9053\u529e, \u7259\u514b\u77f3\u5e02, \u547c\u4f26\u8d1d\u5c14\u5e02 \u182c\u1825\u182f\u1825\u1828 \u182a\u1824\u1836\u1822\u1837, \u5185\u8499\u53e4\u81ea\u6cbb\u533a \u1826\u182a\u1826\u1837 \u182e\u1823\u1829\u182d\u1824\u182f \u1824\u1828 \u1825\u182a\u1821\u1837\u1832\u1821\u182d\u1821\u1828 \u1835\u1820\u1830\u1820\u182c\u1823 \u1823\u1837\u1823\u1828, \u4e2d\u56fd",
+"summary_polyline": "awwkHeq{_V[DHlGy@p@sh@|@qaBpJmAnAMpAbBdd@M~Aj@nGfHvmBhf@kEd}AsHhOyA|AcBn@yEG{As@yDyBcDcAsEaDsWgAe`@cBa]S{H^]_@MqA_TiAg{@[Rp@|d@iAr@",
+"average_heartrate": 112.0,
+"average_speed": 2.24683239915231,
+"source": "Garmin Connect",
+"streak": 10
 }
 ]
