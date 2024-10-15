@@ -28468,5 +28468,35 @@
 "average_speed": 1.0006042734801328,
 "source": "Garmin Connect",
 "streak": 7
+},
+{
+"run_id": 1728775837000,
+"name": "M081\u6c5f\u897f\u4e95\u5188\u5c71\u9a6c\u62c9\u677e2024",
+"distance": 42282.858453208486,
+"moving_time": "4:54:17",
+"type": "Run",
+"start_date": "2024-10-12 23:30:37",
+"start_date_local": "2024-10-13 07:30:37",
+"location_country": "\u7ea2\u519b\u5927\u9053, \u4f1a\u5e08\u8def\u793e\u533a, \u7ea2\u661f\u8857\u9053, \u4e95\u5188\u5c71\u5e02, \u5409\u5b89\u5e02, \u6c5f\u897f\u7701, 343600, \u4e2d\u56fd",
+"summary_polyline": "mrgbD}hpxTrC|PVnE]bE_Gt\\z@pAlVtGbL`@hHuAnEaCfLqIpABbMlLfn@zb@hIvGlu@v_@bCp@zK`AhTrK~_@|ZnXfQnAA|@i@`^mh@vJtBtBlAz@Q`AoBj@UfKzLoBi@}CoCcD_BgCCgCuAaJeB_^dh@iAj@oAEeX}Py^aZ_VyLmOiB_t@o^{x@sj@oRnOaIjDeJhB_ML_JkAwa@qL{CaCcCeDqF}PwOdEnCjN~ClHjE~F`HdFte@dNpNjBdJLdJi@pJeBnGuBaJxCeJxA{SH_M_B_c@qLuFqCyGoGqF{KcCeKyJal@iC}SeAye@LqEz@}EtAKhLnF|EoKpOfG`J{HXu@vWqH`Bs@XiAo_AiiDuGcQqOa[wPy_@k@}HvAqK}@fL^zFfB~En^dv@`IdTviAndEvCjPnAhP~AHvfAu^j@jAijAl^y@}@w@mLq@uC{Jt@gCWi`@qQ{DkAuAtBkB~FFd@pX~N`CrFvBhL",
+"average_heartrate": 134.0,
+"average_speed": 2.394679642816361,
+"source": "Garmin Connect",
+"streak": 8
+},
+{
+"run_id": 1728865165000,
+"name": "\u8328\u576a\u9547\u706b\u70ac\u5e7f\u573a\u7b49\u6e9c\u8fbe",
+"distance": 4463.238355655563,
+"moving_time": "1:21:36",
+"type": "Hike",
+"start_date": "2024-10-14 00:19:25",
+"start_date_local": "2024-10-14 08:19:25",
+"location_country": "\u4e95\u5188\u5c71\u98ce\u666f\u540d\u80dc\u533a\u6e38\u5ba2\u670d\u52a1\u4e2d\u5fc3, \u4e1c\u8425-\u6df1\u5733, \u6850\u6728\u5cad\u8def\u793e\u533a, \u8328\u576a\u9547, \u4e95\u5188\u5c71\u5e02, \u5409\u5b89\u5e02, \u6c5f\u897f\u7701, \u4e2d\u56fd",
+"summary_polyline": "oigaD{lwwTx@zBGv@xBjEzPjL~EKhCaB`B^t@MbAu@XkAQs@wAo@q@eAc@gCHsCbCeAnEIlEwBb@VdCkAz@gArAQZ{@jDkBrANh@}@}@DxDyCtCoAlHmAt@l@Cs@XOMw@kDsC_F}B^_Br@SLg@hBZ`AWb@HFxANWzBx@aCs@MPFs@qAhAyCsAsCtAuDPNg@nAUMSXV@]LX\\YF\\CUDTj@m@e@nAsCMgIjC{DLsE~@o@Q",
+"average_heartrate": 82.0,
+"average_speed": 0.9116091412695186,
+"source": "Garmin Connect",
+"streak": 9
 }
 ]
