@@ -29053,5 +29053,20 @@
 "average_speed": 0.9582556699265207,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1734225395000,
+"name": "\u6500\u679d\u82b1\u6b65\u9053\u8054\u8d5b2024",
+"distance": 23711.769788041744,
+"moving_time": "3:54:36",
+"type": "Trail Run",
+"start_date": "2024-12-15 01:16:35",
+"start_date_local": "2024-12-15 09:16:35",
+"location_country": "\u5411\u7b90\u8def, \u4e1c\u533a, \u6500\u679d\u82b1\u5e02, \u56db\u5ddd\u7701, \u4e2d\u56fd",
+"summary_polyline": "uz`aDy_`lRmBe@^}B[]ReBSi@jCqNfEgDqAePoBtCsAlG{@d@aAu@_AeEqAwByA@iGvEwGeIu@C}D~MaADwFoEsEvH_GjCKdBgIvY|@fM]xBbA|KeA|Bz@`ADt@bBp@vCfDbB~CPxB`C_@lDf@lBhCdBOh@w@|@ToD`CkJ~YcADv@mDpAVFaA~@}@NgA`@W~AT]uBbAIhA^z@tAdAUnAdBrAqA?q@hBSx@jEbDa@p@nAHrA|@CjAfAhA_BbAHzBkATXSt@PhDpDiAv@lBAz@z@WhA|A~AiAv@~BnEg@vBXv@a@TkCpAmDa@uBj@k@zBO~@cEj@Qj@yALuBfAIcBiAPaBtBi@Pw@b@~@V}CzAN|Ae@RiAdBiA`@aD}AwGdBAk@m@JUbCkAjAEh@aAdE_@dGuBx@uAAeBh@{B~AiAI_AbAaBlCwAfEuFzDwC~AaD|BuAfFe@dEbApGBhCiEbD_AjAJhFaD~@Kx@eBFyBvBaMGiExBuA~DwInKwMpD_DbLuDrI{EzADOa@p@iCzCmE~BcHeAqBpBoDdAoIjCgE\\cDrAeDCy@qA]Yu@q@@eEkGiCyAf@qCkBE?i@}EKqEw@UWRs@q@ARk@]oBg@x@o@aAd@_AuDm@i@qBkALFq@_Ay@s@Ku@h@gBs@{GhAeBe@Y_AbA}@Bq@kEoFb@oEcAmBoDl@wCy@Rp@eB]Wd@aBeA}@NwAu@yMeA}Dd@uDlC_Cj@Mb@^^nEc@`@RCf@qJdC_AjBqF`E[|@n@v@pBkA|AA`DoAxHJgA^}@`C`@~F[f@PdAy@l@b@Ta@`@Br@oCo@sCr@gEc@iBZwAoAeEeAiA`@Cf@{CTbAj@h@hAcCd@E|DkAH}AxAJhDy@lDz@xBPhGo@lA]MYZ}@|B|@dAAtAcFxA?tBmAdCqDlB_CNwIqA}BpDP`BoAvAcAlHOtFuDvEyCv@gBSqGeHwAHkAt@^dJjFln@iEbEiCfNP`@U~AZ^a@xBnB`@",
+"average_heartrate": 127.0,
+"average_speed": 1.684553125038487,
+"source": "Garmin Connect",
+"streak": 4
 }
 ]
