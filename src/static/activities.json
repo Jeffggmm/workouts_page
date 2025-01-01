@@ -29173,5 +29173,20 @@
 "average_speed": 2.044053267176119,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1735614626000,
+"name": "\u6c5f\u5c71\u6c5f\u90ce\u5c71\u8e29\u7ebf\u767b\u9876",
+"distance": 2130.1274389210203,
+"moving_time": "0:48:00",
+"type": "Hike",
+"start_date": "2024-12-31 03:10:26",
+"start_date_local": "2024-12-31 11:10:26",
+"location_country": "\u5f00\u660e\u7985\u5bfa, \u666f\u533a\u516c\u8def, \u4e4c\u9ca4, \u77f3\u95e8\u9547, \u6c5f\u5c71\u5e02, \u8862\u5dde\u5e02, \u6d59\u6c5f\u7701, \u4e2d\u56fd",
+"summary_polyline": "qxcmDqetrU\\J{@v@k@zBTc@lAIjBiAT^Sl@dAxAtA@t@d@o@p@K`BrC_D~ALh@a@?_At@wAn@?n@bAW{@h@FLeAh@Ch@mAw@?JS\\FKZPUI\\Mg@mCn@?l@?k@{@zADa@g@HSz@[EZFMTkAz@_E}@A\\s@}@T[k@c@VUQKk@|@g@AqBxA{@?VjAk@qA~AsCVT[J?k@",
+"average_heartrate": 83.0,
+"average_speed": 0.7396275829586876,
+"source": "Garmin Connect",
+"streak": 3
 }
 ]
