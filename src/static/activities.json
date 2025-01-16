@@ -29263,5 +29263,35 @@
 "average_speed": 1.5318900745362762,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1736920714000,
+"name": "\u6fb3\u95e8\u5b98\u4e5f\u8857\u6b65\u884c",
+"distance": 1790.0574539219724,
+"moving_time": "0:35:20",
+"type": "Hike",
+"start_date": "2025-01-15 05:58:34",
+"start_date_local": "2025-01-15 13:58:34",
+"location_country": "\u65b0\u57ce\u5927\u99ac\u8def Avenida Cidade Nova, \u8056\u6bcd\u7063 Ba\u00eda de Nossa Senhora da Esperan\u00e7a, \u8def\u6c39\u586b\u6d77\u5340 Zona do Aterro de Cotai, \u6fb3\u9580 Macau, 999078, \u4e2d\u56fd",
+"summary_polyline": "g}dfCmgbtToCXId@GwBZw@sDQHeAy@rAoKa@MzAq@h@JrAo@t@uAt@Rq@Sv@y@^i@KXHOT_Ae@bAn@h@KAVHWH`A_@\\dElEnB`@vEEN_AtA[hAkFf@cGAyBa@s@",
+"average_heartrate": 74.0,
+"average_speed": 0.8443667235481002,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
+"run_id": 1736928895000,
+"name": "\u6fb3\u95e8\u9f99\u73af\u6e7f\u5730\u516c\u56ed\u8dd1\u6b65",
+"distance": 8731.376789556205,
+"moving_time": "1:29:57",
+"type": "Run",
+"start_date": "2025-01-15 08:14:55",
+"start_date_local": "2025-01-15 16:14:55",
+"location_country": "T20 \u6c39\u4ed4\u671b\u5fb7\u8056\u6bcd\u7063\u5927\u99ac\u8def\u516c\u5ec1, \u9f8d\u74b0\u8461\u97fb\u751f\u614b\u6b65\u9053 Vias pedonais ecol\u00f3gicas da Avenida da Praia na Taipa, \u6c39\u4ed4\u820a\u57ce\u5340 Vila de Taipa, \u5609\u6a21\u5802\u5340 Nossa Senhora do Carmo, \u6c39\u4ed4 Taipa, \u6fb3\u9580 Macau, 999078, \u4e2d\u56fd",
+"summary_polyline": "ifefC{mbtTw@sLuCmKgCLYvBsG`GMnA{DUAr@z@lBv@CvBhDjBB~AnArJXPsBU{EeDgPeCLg@jCiB`A{CbDGjAi@f@tBhDu@|@Vr@dB?bBpAdLTw@iNaCkL{AaBoEx@gIjDo@pAuAhMj@^jBy@jA|BpBdAjAITjBh@c@pMFu@qMyBuKgBeC_Fv@oH~C{@~AKdHvCfH|Ax@`AENa@v@~@dARfLDc@wJkCgNyAiC{AEyEpBoDv@yArAcA`Km@vBBf@f@LMpA~Ar@xCxCv@pBg@^\\VCe@WLr@^z@w@YgAv@y@DcA|ASxOZDn@V@VcErAU",
+"average_heartrate": 112.0,
+"average_speed": 1.6178204168160468,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
