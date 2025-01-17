@@ -29293,5 +29293,35 @@
 "average_speed": 1.6178204168160468,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1737008517000,
+"name": "\u8d8a\u5357Hoi An \u6cb3\u8fb9\u8d70",
+"distance": 2378.5029675341457,
+"moving_time": "1:05:41",
+"type": "Hike",
+"start_date": "2025-01-16 06:21:57",
+"start_date_local": "2025-01-16 13:21:57",
+"location_country": "Tomorrow Villa, 119, Nguy\u1ec5n Tri Ph\u01b0\u01a1ng, Ph\u01b0\u1eddng C\u1ea9m Nam, Th\u00e0nh ph\u1ed1 H\u1ed9i An, T\u1ec9nh Qu\u1ea3ng Nam, 64000, Vi\u1ec7t Nam",
+"summary_polyline": "}_{_BefftSfA|F`@dEQ\\qIOy@MO_ALbAoDy@yI\\RSu@mJuBqOHuLRmGbCoK|BcGrA_IFmA{BVUS",
+"average_heartrate": 75.0,
+"average_speed": 0.6035277765882126,
+"source": "Garmin Connect",
+"streak": 2
+},
+{
+"run_id": 1737020104000,
+"name": "\u8d8a\u5357Hoi An\u53e4\u9547\u591c\u6e38\u6b65\u884c",
+"distance": 2510.036177718865,
+"moving_time": "1:13:03",
+"type": "Hike",
+"start_date": "2025-01-16 09:35:04",
+"start_date_local": "2025-01-16 16:35:04",
+"location_country": "C\u1ea7u An H\u1ed9i, An H\u1ed9i, Ph\u01b0\u1eddng Minh An, Th\u00e0nh ph\u1ed1 H\u1ed9i An, T\u1ec9nh Qu\u1ea3ng Nam, 64000, Vi\u1ec7t Nam",
+"summary_polyline": "}z{_BaodtS[WLeFEtDSI`@Dc@Gb@F_@@\\DOt@rBPMdATTrEA}DDq@w@@s@cBM|@qBv@kMJeCc@mD^HLjEYsDNuBi@HyAiIz@[~HWxFhArJDcBeN`@SGz@Wi@VM",
+"average_heartrate": 74.0,
+"average_speed": 0.5726753770748038,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
