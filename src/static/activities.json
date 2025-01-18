@@ -29323,5 +29323,50 @@
 "average_speed": 0.5726753770748038,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1737070989000,
+"name": "\u8d8a\u5357Hoi An\u6668\u8dd1",
+"distance": 9924.911349478578,
+"moving_time": "1:26:32",
+"type": "Run",
+"start_date": "2025-01-16 23:43:09",
+"start_date_local": "2025-01-17 06:43:09",
+"location_country": "Tomorrow Villa, 119, Nguy\u1ec5n Tri Ph\u01b0\u01a1ng, Ph\u01b0\u1eddng C\u1ea9m Nam, Th\u00e0nh ph\u1ed1 H\u1ed9i An, T\u1ec9nh Qu\u1ea3ng Nam, 64000, Vi\u1ec7t Nam",
+"summary_polyline": "y_{_BmfftS`B`NqIBaG}@_@lGiAPx@`DhHlEd@x@wIsF{AgHr@eGhGuNz@yG[N\\f@{@dFyDrH_A|DIhAnAK{Iz@b@Xx@nHAbI{@jNaAvCbBHnBoMZUQm@jAq@vFzKzAnGA`@Q_@cELC|FbE@a@jB{Bc@Ig@{@@H~DqA^jAzGP|GuAfFkCtDe@Jc@eANsJoAKWvJ|A|EyGlEqHxLs@fC_E`@qBYl@kDjBaFGmR`DiNbAyHdC}Cf@oBx@w@dBmEVaFOsNgBiUhGuAbIa@jGhArIHHgAaBiL",
+"average_heartrate": 107.0,
+"average_speed": 1.911577686725458,
+"source": "Garmin Connect",
+"streak": 3
+},
+{
+"run_id": 1737085110000,
+"name": "\u8d8a\u5357Hoi An\u53e4\u9547\u6e9c\u8fbe",
+"distance": 3659.559665432035,
+"moving_time": "1:43:47",
+"type": "Hike",
+"start_date": "2025-01-17 03:38:30",
+"start_date_local": "2025-01-17 10:38:30",
+"location_country": "Tomorrow Villa, 119, Nguy\u1ec5n Tri Ph\u01b0\u01a1ng, Ph\u01b0\u1eddng C\u1ea9m Nam, Th\u00e0nh ph\u1ed1 H\u1ed9i An, T\u1ec9nh Qu\u1ea3ng Nam, 64000, Vi\u1ec7t Nam",
+"summary_polyline": "e`{_BueftSfB~HLxBWV{KUAYRZiE{@}HVe@\\@f@QGnA`F\\rHiAJHf@M_@c@\\VbDShL\\?YDi@bDcAYgCNq@cAf@z@rCABURb@]_BQTSo@KVy@Mj@XRUi@AbBBEmEa@WXEH`BUgBRcFmByUjGwAbIYhEh@PXFu@U^z@TbJJkBeN",
+"average_heartrate": 75.0,
+"average_speed": 0.587692253963712,
+"source": "Garmin Connect",
+"streak": 3
+},
+{
+"run_id": 1737113537000,
+"name": "\u8d8a\u5357\u5c98\u6e2f\u6b65\u884c\u53bb\u5403\u996d",
+"distance": 3000.4013573936627,
+"moving_time": "0:57:53",
+"type": "Hike",
+"start_date": "2025-01-17 11:32:17",
+"start_date_local": "2025-01-17 18:32:17",
+"location_country": "Chi House Hotel & Apartment, 42, \u0110\u01b0\u1eddng L\u00e2m Ho\u00e0nh, Ph\u01b0\u1eddng Ph\u01b0\u1edbc M\u1ef9, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, 02363, Vi\u1ec7t Nam",
+"summary_polyline": "ub`aBcttsSnAu@rKOb@hAx@CpOgCj@k@n@AY|A`ArBDxBh@v@DpBdCvMb@ZlAdHTV\\UWV\\Y?T}@m@g@wAqCeQsC}KPkAtA\\aBy@h@l@i@AXMUOGb@cAMeQbEm@m@_@cCoJH_Cf@",
+"average_heartrate": 75.0,
+"average_speed": 0.8639220723851606,
+"source": "Garmin Connect",
+"streak": 3
 }
 ]
