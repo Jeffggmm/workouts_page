@@ -29368,5 +29368,35 @@
 "average_speed": 0.8639220723851606,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1737166666000,
+"name": "\u8d8a\u5357DaNang\u6d77\u8fb9\u8dd1\u6b65",
+"distance": 10479.523635202984,
+"moving_time": "1:38:21",
+"type": "Run",
+"start_date": "2025-01-18 02:17:46",
+"start_date_local": "2025-01-18 09:17:46",
+"location_country": "Ph\u01b0\u1eddng Ph\u01b0\u1edbc M\u1ef9, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, 02363, Vi\u1ec7t Nam",
+"summary_polyline": "sn`aB_ytsSoDn@_@k@eB^aMBqAt@mAHmBQ[_Ae@MgCd@I`@o@k@iDGsDhBwBu@kG?kBhAaLKoIcBkK{EqHuBig@sH}Q_Jg^kJ{LuGoKyLqEoJyBqIe@qHj@jIhCzJfDxGjFrG{DzKPqEfCaDlC[zEnDtLhGvU~EvCdBhSbIjIhBtMdBzBx@`N~@dHtApFDhMhAxC|@pHOhIXbC\\Id@zQu@rLX`Go@vCB",
+"average_heartrate": 116.0,
+"average_speed": 1.7758894484329748,
+"source": "Garmin Connect",
+"streak": 4
+},
+{
+"run_id": 1737206831000,
+"name": "\u53bb\u9f99\u6865\u770b\u55b7\u706b\u55b7\u6c34\u8868\u6f14",
+"distance": 997.2586373180408,
+"moving_time": "0:29:09",
+"type": "Hike",
+"start_date": "2025-01-18 13:27:11",
+"start_date_local": "2025-01-18 20:27:11",
+"location_country": "Meli\u00e1 Vinpearl Danang Riverfront, \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, 50207, Vi\u1ec7t Nam",
+"summary_polyline": "eyaaBoqqsSFtEhIK|DsArQ_DnL{@AX",
+"average_heartrate": 79.0,
+"average_speed": 0.5701879001246659,
+"source": "Garmin Connect",
+"streak": 4
 }
 ]
