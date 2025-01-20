@@ -29398,5 +29398,20 @@
 "average_speed": 0.5701879001246659,
 "source": "Garmin Connect",
 "streak": 4
+},
+{
+"run_id": 1737245732000,
+"name": "\u8d8a\u5357\u5c98\u6e2f\u6d77\u8fb9\u8dd1\u6b65",
+"distance": 10482.302104704288,
+"moving_time": "1:29:45",
+"type": "Run",
+"start_date": "2025-01-19 00:15:32",
+"start_date_local": "2025-01-19 07:15:32",
+"location_country": "Arrive Apartment, \u0110\u01b0\u1eddng L\u00e2m Ho\u00e0nh, Ph\u01b0\u1eddng Ph\u01b0\u1edbc M\u1ef9, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, 02363, Vi\u1ec7t Nam",
+"summary_polyline": "{c`aBcutsSlDMMyBVsAbYkBz@g@pDUxx@wMOuAXy@`B^dGqAzAkAnKqA~AyChE{BfGsAnDUnJkEfNcEdC[lGiDxKeEj[{JxDcCpEr@aBKcC^kLxFrA~ElAe@eAd@cBuEy@TJx@e@lA\\lAYY@f@q@h@v@]Pl@fBcAhBxCbA\\`@QKd@qiBvp@}A`@kBQ_MeI}D?}~@tOsW`B?dEiDv@",
+"average_heartrate": 108.0,
+"average_speed": 1.9465742070017247,
+"source": "Garmin Connect",
+"streak": 5
 }
 ]
