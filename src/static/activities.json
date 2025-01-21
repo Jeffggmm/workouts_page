@@ -29413,5 +29413,20 @@
 "average_speed": 1.9465742070017247,
 "source": "Garmin Connect",
 "streak": 5
+},
+{
+"run_id": 1737331000000,
+"name": "DaNang\u7ff0\u6c5f\u8fc7\u4e09\u6865\u8dd1\u6b65",
+"distance": 11055.764534663065,
+"moving_time": "1:31:28",
+"type": "Run",
+"start_date": "2025-01-19 23:56:40",
+"start_date_local": "2025-01-20 06:56:40",
+"location_country": "Chi House Hotel & Apartment, 42, \u0110\u01b0\u1eddng L\u00e2m Ho\u00e0nh, Ph\u01b0\u1eddng Ph\u01b0\u1edbc M\u1ef9, Qu\u1eadn S\u01a1n Tr\u00e0, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, 02363, Vi\u1ec7t Nam",
+"summary_polyline": "sd`aBittsS_GhA`Hv]tDj`@fAl`Al@Xp_@~@bb@g@g@cOcBTcAeC_Ce\\J}Bm@RKpFiBLoFbDySfBw@iEsZlBZzB^|[?vBUTiUSgJqC{Yu@gBNw@bAFxBsCca@Z{Bo@gGbM}^n@aEd@}K[eEE{Xjd@aAnAl@zG{@",
+"average_heartrate": 109.0,
+"average_speed": 2.0145343539837945,
+"source": "Garmin Connect",
+"streak": 6
 }
 ]
