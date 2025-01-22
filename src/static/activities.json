@@ -29428,5 +29428,20 @@
 "average_speed": 2.0145343539837945,
 "source": "Garmin Connect",
 "streak": 6
+},
+{
+"run_id": 1737436609000,
+"name": "DaNang\u4e07\u8c6a\u6d6a\u95f4\u5149\u811a\u8dd1\u6b65",
+"distance": 10294.359446323844,
+"moving_time": "1:48:43",
+"type": "Run",
+"start_date": "2025-01-21 05:16:49",
+"start_date_local": "2025-01-21 12:16:49",
+"location_country": "Marriott Resort & Spa, 7, \u0110\u01b0\u1eddng Tr\u01b0\u1eddng Sa, Ph\u01b0\u1eddng H\u00f2a H\u1ea3i, Qu\u1eadn Ng\u0169 H\u00e0nh S\u01a1n, Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng, 50507, Vi\u1ec7t Nam",
+"summary_polyline": "_mu`B{~xsSCkAnBo@nEaDbFkA~GcDzEu@~DoCnCo@vFsCtI}BjEoCvCc@~BiB`B_@|IsEfIsBbD{ClAIX\\hDeBpAsAlGaBvGsDzDw@nImF~@LR^f@uAtGcC`FkEdDe@tLeGbMqEzCaC~HoC|BqBbDaAdFaDhH}BhCwCyBpCmD~@aKrFwCx@mBfBkI|CeDdCgMpEgL|FqDh@gGlFaEtAeEh@aGbF}ElAaGbD{GlBcElCyDf@oB`CgBv@cFv@qLjFuCxBuDr@eEhCsI~ByFnCaC^eFjD{Fz@iEbC}GpBuB|BLw@o@z@kElA",
+"average_heartrate": 106.0,
+"average_speed": 1.5781633368578636,
+"source": "Garmin Connect",
+"streak": 7
 }
 ]
